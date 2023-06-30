@@ -1,0 +1,91 @@
+{
+  "background": {
+    "default": {
+      "value": "{colors.purple.50}",
+      "type": "color",
+      "failedToResolve": true
+    },
+    "float": {
+      "value": "{colors.white}",
+      "type": "color",
+      "failedToResolve": true
+    },
+    "dip": {
+      "value": "{colors.purple.100}",
+      "type": "color",
+      "failedToResolve": true
+    }
+  },
+  "foreground": {
+    "contrast": {
+      "value": "{colors.purple.800}",
+      "type": "color",
+      "failedToResolve": true
+    },
+    "dim": {
+      "value": "{colors.purple.300}",
+      "type": "color",
+      "failedToResolve": true
+    },
+    "emphasized": {
+      "value": "{colors.purple.400}",
+      "type": "color",
+      "failedToResolve": true
+    },
+    "primary": {
+      "value": "{colors.pink.400}",
+      "type": "color",
+      "failedToResolve": true
+    },
+    "primary-dim": {
+      "value": "{colors.pink.200}",
+      "type": "color",
+      "failedToResolve": true
+    },
+    "match-background": {
+      "value": "{colors.purple.50}",
+      "type": "color",
+      "failedToResolve": true
+    }
+  },
+  "border": {
+    "hint": {
+      "value": "{colors.purple.200}",
+      "type": "color",
+      "failedToResolve": true
+    },
+    "focus": {
+      "value": "{colors.purple.400}",
+      "type": "color",
+      "failedToResolve": true
+    },
+    "contrast": {
+      "value": "{colors.purple.800}",
+      "type": "color",
+      "failedToResolve": true
+    }
+  },
+  "lg": {
+    "value": {
+      "x": 0,
+      "y": 0,
+      "blur": 64,
+      "spread": 0,
+      "color": "#0000001a",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "fill": {
+    "default": {
+      "value": "{colors.purple.800}",
+      "type": "color",
+      "failedToResolve": true
+    },
+    "primary": {
+      "value": "{colors.pink.500}",
+      "type": "color",
+      "failedToResolve": true
+    }
+  }
+}

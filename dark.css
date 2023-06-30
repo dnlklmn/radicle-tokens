@@ -1,0 +1,17 @@
+:root[data-theme="dark"] {
+  --background-default: #0B131A;
+  --background-float: #131A30;
+  --background-dip: #000000;
+  --foreground-contrast: #ffffff;
+  --foreground-dim: #5555FF;
+  --foreground-emphasized: #5555FF;
+  --foreground-primary: #FF55FF;
+  --foreground-primary-dim: #AD00AD;
+  --foreground-match-background: #0B131A;
+  --border-hint: #30348A;
+  --border-focus: #5555FF;
+  --border-contrast: #D9DCFE;
+  --lg: 0 0 64px 0 #00000099;
+  --fill-default: #D9DCFE;
+  --fill-primary: #FF1AFF;
+}

@@ -1,0 +1,17 @@
+:root {
+  --background-default: #F3F6FD;
+  --background-float: #ffffff;
+  --background-dip: #D9DCFE;
+  --foreground-contrast: #222861;
+  --foreground-dim: #7C7CFF;
+  --foreground-emphasized: #5555FF;
+  --foreground-primary: #FF55FF;
+  --foreground-primary-dim: #FFB2FF;
+  --foreground-match-background: #F3F6FD;
+  --border-hint: #B2B4FE;
+  --border-focus: #5555FF;
+  --border-contrast: #222861;
+  --lg: 0 0 64px 0 #0000001a;
+  --fill-default: #222861;
+  --fill-primary: #FF1AFF;
+}
