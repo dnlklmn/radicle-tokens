@@ -1,17 +1,23 @@
 :root[data-theme="dark"] {
-  --background-default: #0B131A;
-  --background-float: #131A30;
+  --background-float: #12142B;
   --background-dip: #000000;
-  --foreground-contrast: #ffffff;
-  --foreground-dim: #5555FF;
-  --foreground-emphasized: #5555FF;
+  --background-default: #0A0D10;
+  --foreground-contrast: #F3F6FD;
+  --foreground-dim: #3C3EAF;
+  --foreground-emphasized: #8A8AFF;
   --foreground-primary: #FF55FF;
   --foreground-primary-dim: #AD00AD;
-  --foreground-match-background: #0B131A;
+  --foreground-match-background: #0A0D10;
+  --foreground-primary-fade: linear-gradient(0deg, $colors.pink.800 0%, $colors.pink.400 100);
+  --foreground-white: #ffffff;
   --border-hint: #30348A;
-  --border-focus: #5555FF;
-  --border-contrast: #D9DCFE;
+  --border-focus: #8A8AFF;
+  --border-contrast: #EBEEFE;
   --lg: 0 0 64px 0 #00000099;
-  --fill-default: #D9DCFE;
-  --fill-primary: #FF1AFF;
+  --fill-default: #EBEEFE;
+  --fill-light: #8A8AFF;
+  --fill-primary: #5555FF;
+  --fill-ghost: #8A8AFF;
+  --fill-ghost-hover: #22245C;
+  --fill-separator: #30348A;
 }

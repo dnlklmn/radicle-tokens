@@ -6,7 +6,7 @@
         "type": "color"
       },
       "100": {
-        "value": "#D9DCFE",
+        "value": "#EBEEFE",
         "type": "color"
       },
       "200": {
@@ -14,7 +14,7 @@
         "type": "color"
       },
       "300": {
-        "value": "#7C7CFF",
+        "value": "#8A8AFF",
         "type": "color"
       },
       "400": {
@@ -34,15 +34,15 @@
         "type": "color"
       },
       "800": {
-        "value": "#222861",
+        "value": "#22245C",
         "type": "color"
       },
       "900": {
-        "value": "#131A30",
+        "value": "#12142B",
         "type": "color"
       },
       "950": {
-        "value": "#0B131A",
+        "value": "#0A0D10",
         "type": "color"
       }
     },

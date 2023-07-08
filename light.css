@@ -1,17 +1,23 @@
 :root {
   --background-default: #F3F6FD;
   --background-float: #ffffff;
-  --background-dip: #D9DCFE;
-  --foreground-contrast: #222861;
-  --foreground-dim: #7C7CFF;
+  --background-dip: #EBEEFE;
+  --foreground-contrast: #22245C;
+  --foreground-dim: #8A8AFF;
   --foreground-emphasized: #5555FF;
   --foreground-primary: #FF55FF;
   --foreground-primary-dim: #FFB2FF;
   --foreground-match-background: #F3F6FD;
+  --foreground-primary-fade: linear-gradient(0deg, $colors.pink.200 0%, $colors.pink.500 100);
+  --foreground-white: #ffffff;
   --border-hint: #B2B4FE;
-  --border-focus: #5555FF;
-  --border-contrast: #222861;
+  --border-focus: #8A8AFF;
+  --border-contrast: #22245C;
   --lg: 0 0 64px 0 #0000001a;
-  --fill-default: #222861;
-  --fill-primary: #FF1AFF;
+  --fill-default: #8A8AFF;
+  --fill-light: #8A8AFF;
+  --fill-primary: #5555FF;
+  --fill-ghost: #EBEEFE;
+  --fill-ghost-hover: #EBEEFE;
+  --fill-separator: #B2B4FE;
 }

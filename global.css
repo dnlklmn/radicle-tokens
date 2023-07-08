@@ -1,15 +1,15 @@
 :root {
   --colors-purple-50: #F3F6FD;
-  --colors-purple-100: #D9DCFE;
+  --colors-purple-100: #EBEEFE;
   --colors-purple-200: #B2B4FE;
-  --colors-purple-300: #7C7CFF;
+  --colors-purple-300: #8A8AFF;
   --colors-purple-400: #5555FF;
   --colors-purple-500: #4A4BDB;
   --colors-purple-600: #3C3EAF;
   --colors-purple-700: #30348A;
-  --colors-purple-800: #222861;
-  --colors-purple-900: #131A30;
-  --colors-purple-950: #0B131A;
+  --colors-purple-800: #22245C;
+  --colors-purple-900: #12142B;
+  --colors-purple-950: #0A0D10;
   --colors-pink-50: #FFEEFF;
   --colors-pink-100: #FFE5FF;
   --colors-pink-200: #FFB2FF;

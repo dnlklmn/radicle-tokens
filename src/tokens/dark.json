@@ -1,10 +1,5 @@
 {
   "background": {
-    "default": {
-      "value": "{colors.purple.950}",
-      "type": "color",
-      "failedToResolve": true
-    },
     "float": {
       "value": "{colors.purple.900}",
       "type": "color",
@@ -14,21 +9,26 @@
       "value": "{colors.black}",
       "type": "color",
       "failedToResolve": true
+    },
+    "default": {
+      "value": "{colors.purple.950}",
+      "type": "color",
+      "failedToResolve": true
     }
   },
   "foreground": {
     "contrast": {
-      "value": "{colors.white}",
+      "value": "{colors.purple.50}",
       "type": "color",
       "failedToResolve": true
     },
     "dim": {
-      "value": "{colors.purple.400}",
+      "value": "{colors.purple.600}",
       "type": "color",
       "failedToResolve": true
     },
     "emphasized": {
-      "value": "{colors.purple.400}",
+      "value": "{colors.purple.300}",
       "type": "color",
       "failedToResolve": true
     },
@@ -46,6 +46,16 @@
       "value": "{colors.purple.950}",
       "type": "color",
       "failedToResolve": true
+    },
+    "primary-fade": {
+      "value": "linear-gradient(0deg, $colors.pink.800 0%, $colors.pink.400 100)",
+      "type": "color",
+      "failedToResolve": true
+    },
+    "white": {
+      "value": "{colors.white}",
+      "type": "color",
+      "failedToResolve": true
     }
   },
   "border": {
@@ -55,7 +65,7 @@
       "failedToResolve": true
     },
     "focus": {
-      "value": "{colors.purple.400}",
+      "value": "{colors.purple.300}",
       "type": "color",
       "failedToResolve": true
     },
@@ -82,8 +92,28 @@
       "type": "color",
       "failedToResolve": true
     },
+    "light": {
+      "value": "{colors.purple.300}",
+      "type": "color",
+      "failedToResolve": true
+    },
     "primary": {
-      "value": "{colors.pink.500}",
+      "value": "{colors.purple.400}",
+      "type": "color",
+      "failedToResolve": true
+    },
+    "ghost": {
+      "value": "{colors.purple.300}",
+      "type": "color",
+      "failedToResolve": true
+    },
+    "ghost-hover": {
+      "value": "{colors.purple.800}",
+      "type": "color",
+      "failedToResolve": true
+    },
+    "separator": {
+      "value": "{colors.purple.700}",
       "type": "color",
       "failedToResolve": true
     }
