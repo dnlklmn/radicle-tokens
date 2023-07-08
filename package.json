@@ -1,7 +1,6 @@
 {
-  "name": "radicle-tokens",
-  "private": true,
-  "version": "0.0.0",
+  "name": "radicle-design-tokens",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -11,6 +10,11 @@
     "split-tokens": "npx token-transformer src/tokens/tokens.json src/tokens/global.json global && npx token-transformer src/tokens/tokens.json src/tokens/light.json light && npx token-transformer src/tokens/tokens.json src/tokens/dark.json dark",
     "generate-css": "node sd.config.cjs"
   },
+  "files": [
+    "light.css",
+    "dark.css",
+    "global.css"
+  ],
   "dependencies": {
     "@tokens-studio/sd-transforms": "^0.9.10",
     "react": "^18.2.0",
