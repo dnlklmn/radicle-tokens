@@ -1,20 +1,21 @@
 :root {
-  --background-default: #F3F6FD;
+  --background-default: #F6F8FE;
   --background-float: #ffffff;
   --background-dip: #EBEEFE;
   --foreground-contrast: #22245C;
   --foreground-dim: #8A8AFF;
   --foreground-emphasized: #5555FF;
-  --foreground-primary: #FF55FF;
+  --foreground-primary: #5555FF;
   --foreground-primary-dim: #FFB2FF;
-  --foreground-match-background: #F3F6FD;
+  --foreground-match-background: #F6F8FE;
   --foreground-primary-fade: linear-gradient(0deg, $colors.pink.200 0%, $colors.pink.500 100);
   --foreground-white: #ffffff;
+  --foreground-success: #55FF66;
   --border-hint: #B2B4FE;
   --border-focus: #8A8AFF;
   --border-contrast: #22245C;
   --lg: 0 0 64px 0 #0000001a;
-  --fill-default: #8A8AFF;
+  --fill-default: #12142B;
   --fill-light: #8A8AFF;
   --fill-primary: #5555FF;
   --fill-ghost: #EBEEFE;

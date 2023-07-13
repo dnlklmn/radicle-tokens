@@ -1,5 +1,5 @@
 :root {
-  --colors-purple-50: #F3F6FD;
+  --colors-purple-50: #F6F8FE;
   --colors-purple-100: #EBEEFE;
   --colors-purple-200: #B2B4FE;
   --colors-purple-300: #8A8AFF;
@@ -23,4 +23,5 @@
   --colors-pink-950: #1A001A;
   --colors-black: #000000;
   --colors-white: #ffffff;
+  --colors-accent-green: #55FF66;
 }

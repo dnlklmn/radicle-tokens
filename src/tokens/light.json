@@ -33,7 +33,7 @@
       "failedToResolve": true
     },
     "primary": {
-      "value": "{colors.pink.400}",
+      "value": "{colors.purple.400}",
       "type": "color",
       "failedToResolve": true
     },
@@ -54,6 +54,11 @@
     },
     "white": {
       "value": "{colors.white}",
+      "type": "color",
+      "failedToResolve": true
+    },
+    "success": {
+      "value": "{colors.accent.green}",
       "type": "color",
       "failedToResolve": true
     }
@@ -88,7 +93,7 @@
   },
   "fill": {
     "default": {
-      "value": "{colors.purple.300}",
+      "value": "{colors.purple.900}",
       "type": "color",
       "failedToResolve": true
     },

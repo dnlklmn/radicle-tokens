@@ -2,7 +2,7 @@
   "colors": {
     "purple": {
       "50": {
-        "value": "#F3F6FD",
+        "value": "#F6F8FE",
         "type": "color"
       },
       "100": {
@@ -99,6 +99,12 @@
     "white": {
       "value": "#ffffff",
       "type": "color"
+    },
+    "accent": {
+      "green": {
+        "value": "#55FF66",
+        "type": "color"
+      }
     }
   }
 }
