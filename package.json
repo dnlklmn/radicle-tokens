@@ -1,13 +1,13 @@
 {
   "name": "radicle-design-tokens",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "split-tokens": "npx token-transformer src/tokens/tokens.json src/tokens/global.json global && npx token-transformer src/tokens/tokens.json src/tokens/light.json light && npx token-transformer src/tokens/tokens.json src/tokens/dark.json dark",
+    "split-tokens": "npx token-transformer src/tokens/tokens.json src/tokens/global.json global && npx token-transformer src/tokens/tokens.json src/tokens/light.json light,global global  && npx token-transformer src/tokens/tokens.json src/tokens/dark.json dark,global global ",
     "generate-css": "node sd.config.cjs"
   },
   "files": [

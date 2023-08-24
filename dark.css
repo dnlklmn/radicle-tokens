@@ -1,7 +1,12 @@
-:root[data-theme="dark"] {
-  --background-default: #0A0D10;
-  --background-float: #14151A;
-  --background-dip: #000000;
+/**
+ * Do not edit directly
+ * Generated on Thu, 24 Aug 2023 10:40:28 GMT
+ */
+
+:root {
+  --background-default: #0A0D10; /* Use on full screen background.  For floating elements (eg. modals), use background-float.  For impressed elements (eg. text field), use background-dip.  */
+  --background-float: #14151A; /* Use for elements that float above the default background, like modals, popovers, etc.  background-float is one shade lighter than the default background. */
+  --background-dip: #000000; /* Use for elements that are impressed in the default background, like text fields.  background-dip is a shade darker than the default background. */
   --foreground-contrast: #F9F9FB;
   --foreground-dim: #B2B2CC;
   --foreground-emphasized: #7070FF;
@@ -11,7 +16,7 @@
   --foreground-black: #000000;
   --foreground-primary: #FF55FF;
   --foreground-success: #0FC821;
-  --foreground-primary-fade: linear-gradient(0deg, $colors.pink.800 0%, $colors.pink.400 100);
+  --foreground-primary-fade: linear-gradient(0deg, #750075 0%, #FF55FF 100);
   --foreground-red: #ED2727;
   --border-hint: #24252D;
   --border-focus: #7070FF;
