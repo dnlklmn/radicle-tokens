@@ -1,39 +1,32 @@
 :root[data-theme="dark"] {
-  --background-default: #0a0d10; /* Use on full screen background.
-
-For floating elements (eg. modals), use background-float.
-
-For impressed elements (eg. text field), use background-dip. */
-  --background-float: #14151a; /* Use for elements that float above the default background, like modals, popovers, etc.
-
-background-float is one shade lighter than the default background.*/
-  --background-dip: #000000; /* Use for elements that are impressed in the default background, like text fields.
-
-background-dip is a shade darker than the default background.*/
-  --foreground-contrast: #f9f9fb;
-  --foreground-dim: #b2b2cc;
-  --foreground-emphasized: #7070ff;
-  --foreground-emphasized-hover: #8585ff;
-  --foreground-match-background: #0a0d10;
-  --foreground-white: #ffffff;
-  --foreground-black: #000000;
-  --foreground-primary: #ff55ff;
-  --foreground-success: #0fc821;
-  --foreground-primary-fade: linear-gradient(0deg, #750075 0%, #ff55ff 100);
-  --foreground-red: #ed2727;
-  --border-hint: #24252d;
-  --border-focus: #7070ff;
-  --border-contrast: #ebebff;
-  --border-default: #2e2f38;
-  --lg: 0 0 64px 0 #00000099;
-  --fill-secondary: #7070ff;
-  --fill-secondary-hover: #8585ff;
-  --fill-ghost: #24252d;
-  --fill-ghost-hover: #2e2f38;
-  --fill-separator: #24252d;
-  --fill-primary: #ff70ff;
-  --fill-success: #63f272;
-  --fill-yellow: #ffe609;
-  --fill-danger: #ff5151;
-  --fill-gray: #9494b8;
+  --background-default: #0A0D10; /* Use on full screen background.*/
+  --background-float: #14151A; /* A shade lighter than the default background for elements that float above the default background, eg. modals, popovers.*/
+  --background-dip: #000000; /* A shade darker than the default background for elements that are below the default background, eg. read only card, info section
+*/
+  --foreground-contrast: #F9F9FB; 
+  --foreground-dim: #B2B2CC; 
+  --foreground-emphasized: #7070FF; 
+  --foreground-emphasized-hover: #8585FF; 
+  --foreground-match-background: #0A0D10; 
+  --foreground-white: #ffffff; 
+  --foreground-black: #000000; 
+  --foreground-primary: #FF55FF; 
+  --foreground-success: #0FC821; 
+  --foreground-primary-fade: linear-gradient(0deg, #750075 0%, #FF55FF 100); 
+  --foreground-red: #ED2727; 
+  --border-hint: #24252D; 
+  --border-focus: #7070FF; 
+  --border-contrast: #EBEBFF; 
+  --border-default: #2E2F38; 
+  --lg: 0 0 64px 0 #00000099; 
+  --fill-secondary: #7070FF; 
+  --fill-secondary-hover: #8585FF; 
+  --fill-ghost: #24252D; 
+  --fill-ghost-hover: #2E2F38; 
+  --fill-separator: #24252D; 
+  --fill-primary: #FF70FF; 
+  --fill-success: #63F272; 
+  --fill-yellow: #FFE609; 
+  --fill-danger: #FF5151; 
+  --fill-gray: #9494B8; 
 }
