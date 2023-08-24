@@ -9,7 +9,7 @@ StyleDictionary.registerFormat({
     return `${this.selector} {\n${dictionary.allProperties
       .map(
         (prop) =>
-          `  --${prop.name}: ${prop.value}; ${
+          `  --${prop.type}-${prop.name}: ${prop.value}; ${
             prop.description ? `/* ${prop.description}*/` : ""
           }`
       )
