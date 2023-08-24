@@ -13,7 +13,7 @@
     "dip": {
       "value": "#000000",
       "type": "color",
-      "description": "A shade darker than the default background for elements that are below the default background, eg. read only card, info section\n"
+      "description": "A shade darker than the default background for elements that are below the default background, eg. read only card, info section."
     }
   },
   "foreground": {

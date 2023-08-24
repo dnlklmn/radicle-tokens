@@ -1,8 +1,7 @@
 :root[data-theme="dark"] {
   --background-default: #0A0D10; /* Use on full screen background.*/
   --background-float: #14151A; /* A shade lighter than the default background for elements that float above the default background, eg. modals, popovers.*/
-  --background-dip: #000000; /* A shade darker than the default background for elements that are below the default background, eg. read only card, info section
-*/
+  --background-dip: #000000; /* A shade darker than the default background for elements that are below the default background, eg. read only card, info section.*/
   --foreground-contrast: #F9F9FB; 
   --foreground-dim: #B2B2CC; 
   --foreground-emphasized: #7070FF; 
