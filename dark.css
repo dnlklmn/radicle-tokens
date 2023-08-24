@@ -2,17 +2,17 @@
   --color-background-default: #0A0D10; /* Use on full screen background.*/
   --color-background-float: #14151A; /* A shade lighter than the default background for elements that float above the default background, eg. modals, popovers.*/
   --color-background-dip: #000000; /* A shade darker than the default background for elements that are below the default background, eg. read only card, info section.*/
-  --color-foreground-contrast: #F9F9FB; 
-  --color-foreground-dim: #B2B2CC; 
-  --color-foreground-emphasized: #7070FF; 
-  --color-foreground-emphasized-hover: #8585FF; 
-  --color-foreground-match-background: #0A0D10; 
-  --color-foreground-white: #ffffff; 
-  --color-foreground-black: #000000; 
-  --color-foreground-primary: #FF55FF; 
-  --color-foreground-success: #0FC821; 
-  --color-foreground-primary-fade: linear-gradient(0deg, #750075 0%, #FF55FF 100); 
-  --color-foreground-red: #ED2727; 
+  --color-foreground-contrast: #F9F9FB; /* For text and icons on full screen background eg. body text, icons, button text.*/
+  --color-foreground-dim: #B2B2CC; /* For deemphasized text and icons on full screen background eg. time stamps.*/
+  --color-foreground-emphasized: #7070FF; /* For emphasized text and icons on full screen background eg. links, ids.*/
+  --color-foreground-emphasized-hover: #8585FF; /* A shade lighter than emphasized for hovering interactive text and icons eg. links, ids.*/
+  --color-foreground-match-background: #0A0D10; /* To use on backgrounds contrasting the default background eg. button text on a blue button.*/
+  --color-foreground-white: #ffffff; /* Plain white for going as bright as you can.*/
+  --color-foreground-black: #000000; /* Plain black, for going as dark as you can.*/
+  --color-foreground-primary: #FF55FF; /* To use for the most important action on the page eg. CTA link*/
+  --color-foreground-success: #0FC821; /* To signify success or open eg. issues.*/
+  --color-foreground-primary-fade: linear-gradient(0deg, #750075 0%, #FF55FF 100); /* Fades from primary to a darker shade for graph lines.*/
+  --color-foreground-red: #ED2727; /* To signify error eg. text field hints.*/
   --color-border-hint: #24252D; 
   --color-border-focus: #7070FF; 
   --color-border-contrast: #EBEBFF; 
