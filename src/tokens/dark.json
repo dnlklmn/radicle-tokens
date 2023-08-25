@@ -146,6 +146,10 @@
     "gray": {
       "value": "#9494B8",
       "type": "color"
+    },
+    "primary-hover": {
+      "value": "#FF80FF",
+      "type": "color"
     }
   }
 }
