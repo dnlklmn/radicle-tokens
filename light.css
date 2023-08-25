@@ -12,10 +12,12 @@
   --color-foreground-primary: #FF55FF; 
   --color-foreground-success: #0FC821; 
   --color-foreground-primary-fade: linear-gradient(0deg, #FF80FF 0%, #FF1AFF 100); 
+  --color-foreground-red: #ED2727; 
   --color-border-hint: #EAEAF1; 
   --color-border-focus: #7070FF; 
   --color-border-contrast: #24252D; 
   --color-border-default: #B2B2CC; 
+  --color-border-red: #ED2727; 
   --boxShadow-lg: 0 0 64px 0 #0000001a; 
   --color-fill-secondary: #7070FF; 
   --color-fill-secondary-hover: #8585FF; 
@@ -23,7 +25,8 @@
   --color-fill-ghost-hover: #EAEAF1; 
   --color-fill-separator: #EAEAF1; 
   --color-fill-primary: #FF70FF; 
-  --color-fill-success: #63F272; 
+  --color-fill-success: #0FC821; 
   --color-fill-yellow: #FFE609; 
   --color-fill-danger: #FF5151; 
+  --color-fill-gray: #9494B8; 
 }

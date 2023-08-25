@@ -53,6 +53,10 @@
     "primary-fade": {
       "value": "linear-gradient(0deg, #FF80FF 0%, #FF1AFF 100)",
       "type": "color"
+    },
+    "red": {
+      "value": "#ED2727",
+      "type": "color"
     }
   },
   "border": {
@@ -70,6 +74,10 @@
     },
     "default": {
       "value": "#B2B2CC",
+      "type": "color"
+    },
+    "red": {
+      "value": "#ED2727",
       "type": "color"
     }
   },
@@ -110,7 +118,7 @@
       "type": "color"
     },
     "success": {
-      "value": "#63F272",
+      "value": "#0FC821",
       "type": "color"
     },
     "yellow": {
@@ -119,6 +127,10 @@
     },
     "danger": {
       "value": "#FF5151",
+      "type": "color"
+    },
+    "gray": {
+      "value": "#9494B8",
       "type": "color"
     }
   }

@@ -89,6 +89,10 @@
     "default": {
       "value": "#2E2F38",
       "type": "color"
+    },
+    "error": {
+      "value": "#ED2727",
+      "type": "color"
     }
   },
   "lg": {
