@@ -1,6 +1,22 @@
 const StyleDictionary = require("style-dictionary");
 const { registerTransforms } = require("@tokens-studio/sd-transforms");
 
+const sdConfig = makeSdTailwindConfig({
+  type: "all",
+  isVariables: true,
+  source: [
+    `src/tokens/dark.json`,
+    `src/tokens/light.json`,
+    `src/tokens/global.json`,
+  ],
+  transforms: ["name/cti/kebab", "attribute/cti"],
+  buildPath: `./`,
+  tailwind: {
+    content: ["./src/**/*.{js,ts,jsx,tsx}"],
+    plugins: ["forms"],
+  },
+});
+
 registerTransforms(StyleDictionary);
 
 StyleDictionary.registerFormat({
