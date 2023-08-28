@@ -58,7 +58,7 @@
       "description": "To use for the most important action on the page eg. CTA link"
     },
     "success": {
-      "value": "#0FC821",
+      "value": "#0B9318",
       "type": "color",
       "description": "To signify success or open eg. issues."
     },
@@ -68,7 +68,7 @@
       "description": "Fades from primary to a darker shade for graph lines."
     },
     "red": {
-      "value": "#ED2727",
+      "value": "#D01111",
       "type": "color",
       "description": "To signify error eg. text field hints."
     }
@@ -91,7 +91,7 @@
       "type": "color"
     },
     "error": {
-      "value": "#ED2727",
+      "value": "#A00D0D",
       "type": "color"
     }
   },
@@ -132,15 +132,15 @@
       "type": "color"
     },
     "success": {
-      "value": "#63F272",
+      "value": "#0B9318",
+      "type": "color"
+    },
+    "danger": {
+      "value": "#710909",
       "type": "color"
     },
     "yellow": {
       "value": "#FFE609",
-      "type": "color"
-    },
-    "danger": {
-      "value": "#FF5151",
       "type": "color"
     },
     "gray": {
@@ -149,6 +149,14 @@
     },
     "primary-hover": {
       "value": "#FF80FF",
+      "type": "color"
+    },
+    "danger-hint": {
+      "value": "#2F0404",
+      "type": "color"
+    },
+    "success-hint": {
+      "value": "#042F08",
       "type": "color"
     }
   }
