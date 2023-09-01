@@ -30,6 +30,8 @@
   --color-fill-yellow: #FFE609; 
   --color-fill-gray: #9494B8; 
   --color-fill-primary-hover: #FF80FF; 
-  --color-fill-danger-hint: #2F0404; 
-  --color-fill-success-hint: #042F08; 
+  --color-fill-diff-red: #710909; 
+  --color-fill-diff-red-light: #2F0404; 
+  --color-fill-diff-green: #075F10; 
+  --color-fill-diff-green-light: #042F08; 
 }

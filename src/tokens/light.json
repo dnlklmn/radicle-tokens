@@ -126,7 +126,7 @@
       "type": "color"
     },
     "danger": {
-      "value": "#D01111",
+      "value": "#EE2F2F",
       "type": "color"
     },
     "gray": {
@@ -135,6 +135,22 @@
     },
     "primary-hover": {
       "value": "#FF80FF",
+      "type": "color"
+    },
+    "diff-green": {
+      "value": "#A1F7A9",
+      "type": "color"
+    },
+    "diff-green-light": {
+      "value": "#E7FDEA",
+      "type": "color"
+    },
+    "diff-red": {
+      "value": "#FF9494",
+      "type": "color"
+    },
+    "diff-red-light": {
+      "value": "#FFEBEB",
       "type": "color"
     }
   }

@@ -151,11 +151,19 @@
       "value": "#FF80FF",
       "type": "color"
     },
-    "danger-hint": {
+    "diff-red": {
+      "value": "#710909",
+      "type": "color"
+    },
+    "diff-red-light": {
       "value": "#2F0404",
       "type": "color"
     },
-    "success-hint": {
+    "diff-green": {
+      "value": "#075F10",
+      "type": "color"
+    },
+    "diff-green-light": {
       "value": "#042F08",
       "type": "color"
     }

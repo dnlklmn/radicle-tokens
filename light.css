@@ -27,7 +27,11 @@
   --color-fill-primary: #FF70FF; 
   --color-fill-success: #0FC821; 
   --color-fill-yellow: #FFE609; 
-  --color-fill-danger: #D01111; 
+  --color-fill-danger: #EE2F2F; 
   --color-fill-gray: #9494B8; 
   --color-fill-primary-hover: #FF80FF; 
+  --color-fill-diff-green: #A1F7A9; 
+  --color-fill-diff-green-light: #E7FDEA; 
+  --color-fill-diff-red: #FF9494; 
+  --color-fill-diff-red-light: #FFEBEB; 
 }
