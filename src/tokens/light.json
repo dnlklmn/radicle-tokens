@@ -47,7 +47,7 @@
       "type": "color"
     },
     "success": {
-      "value": "#0FC821",
+      "value": "#82C80F",
       "type": "color"
     },
     "primary-fade": {
@@ -55,7 +55,7 @@
       "type": "color"
     },
     "red": {
-      "value": "#A00D0D",
+      "value": "#AF1833",
       "type": "color"
     }
   },
@@ -77,7 +77,7 @@
       "type": "color"
     },
     "red": {
-      "value": "#A00D0D",
+      "value": "#AF1833",
       "type": "color"
     }
   },
@@ -118,7 +118,7 @@
       "type": "color"
     },
     "success": {
-      "value": "#0FC821",
+      "value": "#82C80F",
       "type": "color"
     },
     "yellow": {
@@ -126,7 +126,7 @@
       "type": "color"
     },
     "danger": {
-      "value": "#EE2F2F",
+      "value": "#E64764",
       "type": "color"
     },
     "gray": {
@@ -138,19 +138,27 @@
       "type": "color"
     },
     "diff-green": {
-      "value": "#A1F7A9",
+      "value": "#E1FAB8",
       "type": "color"
     },
     "diff-green-light": {
-      "value": "#E7FDEA",
+      "value": "#EEFCD9",
       "type": "color"
     },
     "diff-red": {
-      "value": "#FF9494",
+      "value": "#F6BCC6",
       "type": "color"
     },
     "diff-red-light": {
-      "value": "#FFEBEB",
+      "value": "#FCE9EC",
+      "type": "color"
+    },
+    "float": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "float-hover": {
+      "value": "#F9F9FB",
       "type": "color"
     }
   }

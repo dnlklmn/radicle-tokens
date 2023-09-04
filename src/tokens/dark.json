@@ -58,7 +58,7 @@
       "description": "To use for the most important action on the page eg. CTA link"
     },
     "success": {
-      "value": "#0B9318",
+      "value": "#82C80F",
       "type": "color",
       "description": "To signify success or open eg. issues."
     },
@@ -68,7 +68,7 @@
       "description": "Fades from primary to a darker shade for graph lines."
     },
     "red": {
-      "value": "#D01111",
+      "value": "#D71D3F",
       "type": "color",
       "description": "To signify error eg. text field hints."
     }
@@ -91,7 +91,7 @@
       "type": "color"
     },
     "error": {
-      "value": "#A00D0D",
+      "value": "#AF1833",
       "type": "color"
     }
   },
@@ -132,11 +132,11 @@
       "type": "color"
     },
     "success": {
-      "value": "#0B9318",
+      "value": "#82C80F",
       "type": "color"
     },
     "danger": {
-      "value": "#710909",
+      "value": "#871227",
       "type": "color"
     },
     "yellow": {
@@ -152,19 +152,27 @@
       "type": "color"
     },
     "diff-red": {
-      "value": "#710909",
+      "value": "#5A0C1A",
       "type": "color"
     },
     "diff-red-light": {
-      "value": "#2F0404",
+      "value": "#2D060D",
       "type": "color"
     },
     "diff-green": {
-      "value": "#075F10",
+      "value": "#416407",
       "type": "color"
     },
     "diff-green-light": {
-      "value": "#042F08",
+      "value": "#1C2B03",
+      "type": "color"
+    },
+    "float": {
+      "value": "#14151A",
+      "type": "color"
+    },
+    "float-hover": {
+      "value": "#1B1C22",
       "type": "color"
     }
   }

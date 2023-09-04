@@ -10,14 +10,14 @@
   --color-foreground-white: #ffffff; /* Plain white for going as bright as you can.*/
   --color-foreground-black: #000000; /* Plain black, for going as dark as you can.*/
   --color-foreground-primary: #FF55FF; /* To use for the most important action on the page eg. CTA link*/
-  --color-foreground-success: #0B9318; /* To signify success or open eg. issues.*/
+  --color-foreground-success: #82C80F; /* To signify success or open eg. issues.*/
   --color-foreground-primary-fade: linear-gradient(0deg, #750075 0%, #FF55FF 100); /* Fades from primary to a darker shade for graph lines.*/
-  --color-foreground-red: #D01111; /* To signify error eg. text field hints.*/
+  --color-foreground-red: #D71D3F; /* To signify error eg. text field hints.*/
   --color-border-hint: #24252D; 
   --color-border-focus: #7070FF; 
   --color-border-contrast: #EBEBFF; 
   --color-border-default: #2E2F38; 
-  --color-border-error: #A00D0D; 
+  --color-border-error: #AF1833; 
   --boxShadow-lg: 0 0 64px 0 #00000099; 
   --color-fill-secondary: #7070FF; 
   --color-fill-secondary-hover: #8585FF; 
@@ -25,13 +25,15 @@
   --color-fill-ghost-hover: #2E2F38; 
   --color-fill-separator: #24252D; 
   --color-fill-primary: #FF70FF; 
-  --color-fill-success: #0B9318; 
-  --color-fill-danger: #710909; 
+  --color-fill-success: #82C80F; 
+  --color-fill-danger: #871227; 
   --color-fill-yellow: #FFE609; 
   --color-fill-gray: #9494B8; 
   --color-fill-primary-hover: #FF80FF; 
-  --color-fill-diff-red: #710909; 
-  --color-fill-diff-red-light: #2F0404; 
-  --color-fill-diff-green: #075F10; 
-  --color-fill-diff-green-light: #042F08; 
+  --color-fill-diff-red: #5A0C1A; 
+  --color-fill-diff-red-light: #2D060D; 
+  --color-fill-diff-green: #416407; 
+  --color-fill-diff-green-light: #1C2B03; 
+  --color-fill-float: #14151A; 
+  --color-fill-float-hover: #1B1C22; 
 }
