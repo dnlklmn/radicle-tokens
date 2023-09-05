@@ -10,7 +10,7 @@
   --color-foreground-white: #ffffff; 
   --color-foreground-black: #000000; 
   --color-foreground-primary: #FF55FF; 
-  --color-foreground-success: #82C80F; 
+  --color-foreground-success: #5F930B; 
   --color-foreground-primary-fade: linear-gradient(0deg, #FF80FF 0%, #FF1AFF 100); 
   --color-foreground-red: #AF1833; 
   --color-border-hint: #EAEAF1; 
@@ -31,7 +31,7 @@
   --color-fill-gray: #9494B8; 
   --color-fill-primary-hover: #FF80FF; 
   --color-fill-diff-green: #E1FAB8; 
-  --color-fill-diff-green-light: #EEFCD9; 
+  --color-fill-diff-green-light: #EAFCCF; 
   --color-fill-diff-red: #F6BCC6; 
   --color-fill-diff-red-light: #FCE9EC; 
   --color-fill-float: #ffffff; 

@@ -47,7 +47,7 @@
       "type": "color"
     },
     "success": {
-      "value": "#82C80F",
+      "value": "#5F930B",
       "type": "color"
     },
     "primary-fade": {
@@ -142,7 +142,7 @@
       "type": "color"
     },
     "diff-green-light": {
-      "value": "#EEFCD9",
+      "value": "#EAFCCF",
       "type": "color"
     },
     "diff-red": {
