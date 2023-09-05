@@ -13,6 +13,8 @@
   --color-foreground-success: #5F930B; 
   --color-foreground-primary-fade: linear-gradient(0deg, #FF80FF 0%, #FF1AFF 100); 
   --color-foreground-red: #AF1833; 
+  --color-foreground-yellow: #E5C001; 
+  --color-foreground-gray: #9494B8; 
   --color-border-hint: #EAEAF1; 
   --color-border-focus: #7070FF; 
   --color-border-contrast: #24252D; 

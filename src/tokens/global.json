@@ -256,5 +256,79 @@
       "value": "#0A0D10",
       "type": "color"
     }
+  },
+  "fontFamily": {
+    "inter": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "mono": {
+      "value": "JetBrains Mono",
+      "type": "fontFamilies"
+    }
+  },
+  "fontSize": {
+    "xs": {
+      "value": "0.75rem",
+      "type": "fontSizes"
+    },
+    "sm": {
+      "value": "0.875rem",
+      "type": "fontSizes"
+    },
+    "md": {
+      "value": "1rem",
+      "type": "fontSizes"
+    },
+    "xl": {
+      "value": "1.5rem",
+      "type": "fontSizes"
+    },
+    "2xl": {
+      "value": "2rem",
+      "type": "fontSizes"
+    },
+    "lg": {
+      "value": "1.25rem",
+      "type": "fontSizes"
+    }
+  },
+  "fontWeight": {
+    "regular": {
+      "value": 400,
+      "type": "fontWeights"
+    },
+    "semibold": {
+      "value": 600,
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": 700,
+      "type": "fontWeights"
+    }
+  },
+  "lineHeight": {
+    "100": {
+      "value": "100%",
+      "type": "lineHeights"
+    },
+    "150": {
+      "value": "150%",
+      "type": "lineHeights"
+    }
+  },
+  "borderRadius": {
+    "sm": {
+      "value": "2px",
+      "type": "borderRadius"
+    },
+    "md": {
+      "value": "4px",
+      "type": "borderRadius"
+    },
+    "lg": {
+      "value": "8px",
+      "type": "borderRadius"
+    }
   }
 }

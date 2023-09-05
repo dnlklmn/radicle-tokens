@@ -71,6 +71,14 @@
       "value": "#D71D3F",
       "type": "color",
       "description": "To signify error eg. text field hints."
+    },
+    "gray": {
+      "value": "#9494B8",
+      "type": "color"
+    },
+    "yellow": {
+      "value": "#E5C001",
+      "type": "color"
     }
   },
   "border": {

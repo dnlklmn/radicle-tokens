@@ -1,0 +1,110 @@
+{
+  "subtitle": {
+    "value": {
+      "fontFamily": "Inter",
+      "fontWeight": 600,
+      "fontSize": "1.25rem"
+    },
+    "type": "typography"
+  },
+  "body": {
+    "1": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "lineHeight": "150%",
+        "fontSize": "1rem"
+      },
+      "type": "typography"
+    },
+    "2": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": "0.875rem",
+        "lineHeight": "150%"
+      },
+      "type": "typography"
+    }
+  },
+  "mono": {
+    "1": {
+      "value": {
+        "fontFamily": "JetBrains Mono",
+        "fontWeight": 400,
+        "lineHeight": "100%",
+        "fontSize": "1rem"
+      },
+      "type": "typography"
+    },
+    "2": {
+      "value": {
+        "fontFamily": "JetBrains Mono",
+        "fontWeight": 400,
+        "fontSize": "0.875rem",
+        "lineHeight": "115%"
+      },
+      "type": "typography"
+    },
+    "2-bold": {
+      "value": {
+        "fontFamily": "JetBrains Mono",
+        "fontWeight": 700,
+        "fontSize": "0.875rem",
+        "lineHeight": "115%"
+      },
+      "type": "typography"
+    }
+  },
+  "h": {
+    "4": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": 600,
+        "lineHeight": "Auto",
+        "fontSize": "2rem"
+      },
+      "type": "typography"
+    },
+    "5": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": 600,
+        "lineHeight": "Auto",
+        "fontSize": "1.5rem"
+      },
+      "type": "typography"
+    }
+  },
+  "button": {
+    "md": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": 600,
+        "lineHeight": 16,
+        "fontSize": "0.875rem"
+      },
+      "type": "typography"
+    },
+    "sm": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": 600,
+        "lineHeight": "120%",
+        "fontSize": "0.75rem"
+      },
+      "type": "typography"
+    }
+  },
+  "link": {
+    "2": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": 600,
+        "fontSize": "0.875rem",
+        "lineHeight": "150%"
+      },
+      "type": "typography"
+    }
+  }
+}

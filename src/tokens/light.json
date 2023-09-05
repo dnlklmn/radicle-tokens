@@ -57,6 +57,14 @@
     "red": {
       "value": "#AF1833",
       "type": "color"
+    },
+    "yellow": {
+      "value": "#E5C001",
+      "type": "color"
+    },
+    "gray": {
+      "value": "#9494B8",
+      "type": "color"
     }
   },
   "border": {

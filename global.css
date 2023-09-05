@@ -60,4 +60,20 @@
   --color-gray-850: #1B1C22; 
   --color-gray-900: #14151A; 
   --color-gray-950: #0A0D10; 
+  --fontFamilies-font-family-inter: Inter; 
+  --fontFamilies-font-family-mono: JetBrains Mono; 
+  --fontSizes-font-size-xs: 0.75rem; 
+  --fontSizes-font-size-sm: 0.875rem; 
+  --fontSizes-font-size-md: 1rem; 
+  --fontSizes-font-size-xl: 1.5rem; 
+  --fontSizes-font-size-2xl: 2rem; 
+  --fontSizes-font-size-lg: 1.25rem; 
+  --fontWeights-font-weight-regular: 400; 
+  --fontWeights-font-weight-semibold: 600; 
+  --fontWeights-font-weight-bold: 700; 
+  --lineHeights-line-height-100: 1; 
+  --lineHeights-line-height-150: 1.5; 
+  --borderRadius-border-radius-sm: 2px; 
+  --borderRadius-border-radius-md: 4px; 
+  --borderRadius-border-radius-lg: 8px; 
 }

@@ -18,7 +18,7 @@ StyleDictionary.registerFormat({
 });
 
 // generate css for each token set
-["light", "dark", "global"].map((theme) => {
+["light", "dark", "global", "typography"].map((theme) => {
   const themeVariables = StyleDictionary.extend({
     source: [`src/tokens/${theme}.json`],
     platforms: {
