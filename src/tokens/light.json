@@ -65,6 +65,10 @@
     "gray": {
       "value": "#9494B8",
       "type": "color"
+    },
+    "disabled": {
+      "value": "#70718F",
+      "type": "color"
     }
   },
   "border": {

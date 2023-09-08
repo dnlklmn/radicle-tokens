@@ -79,6 +79,10 @@
     "yellow": {
       "value": "#E5C001",
       "type": "color"
+    },
+    "disabled": {
+      "value": "#70718F",
+      "type": "color"
     }
   },
   "border": {
