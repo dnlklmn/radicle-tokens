@@ -23,7 +23,7 @@
       "description": "For text and icons on full screen background eg. body text, icons, button text."
     },
     "dim": {
-      "value": "#B2B2CC",
+      "value": "#9494B8",
       "type": "color",
       "description": "For deemphasized text and icons on full screen background eg. time stamps."
     },

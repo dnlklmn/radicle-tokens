@@ -4,12 +4,20 @@
       "value": "#FAFAFF",
       "type": "color"
     },
+    "75": {
+      "value": "#F5F5FF",
+      "type": "color"
+    },
     "100": {
       "value": "#EBEBFF",
       "type": "color"
     },
+    "150": {
+      "value": "#E5E5FF",
+      "type": "color"
+    },
     "200": {
-      "value": "#DBDBFF",
+      "value": "#B8B8FF",
       "type": "color"
     },
     "250": {

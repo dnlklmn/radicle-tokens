@@ -3,7 +3,7 @@
   --color-background-float: #14151A; /* A shade lighter than the default background for elements that float above the default background, eg. modals, popovers.*/
   --color-background-dip: #000000; /* A shade darker than the default background for elements that are below the default background, eg. read only card, info section.*/
   --color-foreground-contrast: #F9F9FB; /* For text and icons on full screen background eg. body text, icons, button text.*/
-  --color-foreground-dim: #B2B2CC; /* For deemphasized text and icons on full screen background eg. time stamps.*/
+  --color-foreground-dim: #9494B8; /* For deemphasized text and icons on full screen background eg. time stamps.*/
   --color-foreground-emphasized: #7070FF; /* For emphasized text and icons on full screen background eg. links, ids.*/
   --color-foreground-emphasized-hover: #8585FF; /* A shade lighter than emphasized for hovering interactive text and icons eg. links, ids.*/
   --color-foreground-match-background: #0A0D10; /* To use on backgrounds contrasting the default background eg. button text on a blue button.*/
