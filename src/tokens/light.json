@@ -88,7 +88,7 @@
       "value": "#B8B8FF",
       "type": "color"
     },
-    "red": {
+    "error": {
       "value": "#AF1833",
       "type": "color"
     }
