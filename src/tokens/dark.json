@@ -105,6 +105,10 @@
     "error": {
       "value": "#AF1833",
       "type": "color"
+    },
+    "merged": {
+      "value": "#3D003D",
+      "type": "color"
     }
   },
   "lg": {
@@ -185,6 +189,10 @@
     },
     "float-hover": {
       "value": "#1B1C22",
+      "type": "color"
+    },
+    "merged": {
+      "value": "#1A001A",
       "type": "color"
     }
   }

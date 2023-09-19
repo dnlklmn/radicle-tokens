@@ -21,6 +21,7 @@
   --color-border-contrast: #EBEBFF; 
   --color-border-default: #2E2F38; 
   --color-border-error: #AF1833; 
+  --color-border-merged: #3D003D; 
   --boxShadow-lg: 0 0 64px 0 #00000099; 
   --color-fill-secondary: #7070FF; 
   --color-fill-secondary-hover: #8585FF; 
@@ -39,4 +40,5 @@
   --color-fill-diff-green-light: #121D02; 
   --color-fill-float: #14151A; 
   --color-fill-float-hover: #1B1C22; 
+  --color-fill-merged: #1A001A; 
 }

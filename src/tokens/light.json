@@ -91,6 +91,10 @@
     "error": {
       "value": "#AF1833",
       "type": "color"
+    },
+    "merged": {
+      "value": "#FFE5FF",
+      "type": "color"
     }
   },
   "lg": {
@@ -158,7 +162,7 @@
       "type": "color"
     },
     "diff-red": {
-      "value": "#F6BCC6",
+      "value": "#F9D2D9",
       "type": "color"
     },
     "diff-red-light": {
@@ -171,6 +175,10 @@
     },
     "float-hover": {
       "value": "#ffffff",
+      "type": "color"
+    },
+    "merged": {
+      "value": "#FFEEFF",
       "type": "color"
     }
   }
