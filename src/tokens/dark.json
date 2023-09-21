@@ -103,7 +103,7 @@
       "type": "color"
     },
     "error": {
-      "value": "#AF1833",
+      "value": "#4D0A16",
       "type": "color"
     },
     "merged": {
@@ -168,7 +168,7 @@
       "type": "color"
     },
     "diff-red": {
-      "value": "#5A0C1A",
+      "value": "#4D0A16",
       "type": "color"
     },
     "diff-red-light": {

@@ -22,6 +22,15 @@
         "fontFamily": "Inter",
         "fontWeight": 400,
         "fontSize": "0.875rem",
+        "lineHeight": 16
+      },
+      "type": "typography"
+    },
+    "2-paragraph": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": "0.875rem",
         "lineHeight": "150%"
       },
       "type": "typography"
@@ -38,15 +47,6 @@
       "type": "typography"
     },
     "2": {
-      "value": {
-        "fontFamily": "JetBrains Mono",
-        "fontWeight": 400,
-        "fontSize": "0.875rem",
-        "lineHeight": "115%"
-      },
-      "type": "typography"
-    },
-    "2-bold": {
       "value": {
         "fontFamily": "JetBrains Mono",
         "fontWeight": 700,

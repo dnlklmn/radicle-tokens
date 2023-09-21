@@ -20,7 +20,7 @@
   --color-border-focus: #7070FF; 
   --color-border-contrast: #EBEBFF; 
   --color-border-default: #2E2F38; 
-  --color-border-error: #AF1833; 
+  --color-border-error: #4D0A16; 
   --color-border-merged: #3D003D; 
   --boxShadow-lg: 0 0 64px 0 #00000099; 
   --color-fill-secondary: #7070FF; 
@@ -34,7 +34,7 @@
   --color-fill-yellow: #FFE609; 
   --color-fill-gray: #9494B8; 
   --color-fill-primary-hover: #FF80FF; 
-  --color-fill-diff-red: #5A0C1A; 
+  --color-fill-diff-red: #4D0A16; 
   --color-fill-diff-red-light: #2D060D; 
   --color-fill-diff-green: #1F2F04; 
   --color-fill-diff-green-light: #121D02; 
