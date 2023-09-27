@@ -95,6 +95,10 @@
     "merged": {
       "value": "#FFE5FF",
       "type": "color"
+    },
+    "match-background": {
+      "value": "#F5F5FF",
+      "type": "color"
     }
   },
   "lg": {

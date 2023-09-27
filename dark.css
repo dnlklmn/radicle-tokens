@@ -22,6 +22,7 @@
   --color-border-default: #2E2F38; 
   --color-border-error: #4D0A16; 
   --color-border-merged: #3D003D; 
+  --color-border-match-background: #0A0D10; 
   --boxShadow-lg: 0 0 64px 0 #00000099; 
   --color-fill-secondary: #7070FF; 
   --color-fill-secondary-hover: #8585FF; 
