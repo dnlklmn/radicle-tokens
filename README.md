@@ -13,7 +13,8 @@ Style primitives for the Radicle web interface
 
 ### Use in Figma
 Get the [Tokens Studio](https://tokens.studio/) plugin and pull tokens from this repo:
-repo: ```dnlklmn/radicle-tokens``` | branch: ```main``` | file path: ```src/tokens/tokens.json```
+
+repo: ```dnlklmn/radicle-tokens``` • branch: ```main``` • file path: ```src/tokens/tokens.json```
 
 Turn on the token sets you'd like to use
 
