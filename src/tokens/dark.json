@@ -58,7 +58,7 @@
       "description": "To use for the most important action on the page eg. CTA link"
     },
     "success": {
-      "value": "#82C80F",
+      "value": "#4FA877",
       "type": "color",
       "description": "To signify success or open eg. issues."
     },
@@ -68,7 +68,7 @@
       "description": "Fades from primary to a darker shade for graph lines."
     },
     "red": {
-      "value": "#D71D3F",
+      "value": "#AA5078",
       "type": "color",
       "description": "To signify error eg. text field hints."
     },
@@ -103,7 +103,7 @@
       "type": "color"
     },
     "error": {
-      "value": "#4D0A16",
+      "value": "#AA5078",
       "type": "color"
     },
     "merged": {
@@ -152,11 +152,11 @@
       "type": "color"
     },
     "success": {
-      "value": "#82C80F",
+      "value": "#4FA877",
       "type": "color"
     },
     "danger": {
-      "value": "#871227",
+      "value": "#6B2B42",
       "type": "color"
     },
     "yellow": {
@@ -172,7 +172,7 @@
       "type": "color"
     },
     "diff-red": {
-      "value": "#4D0A16",
+      "value": "#4D1929",
       "type": "color"
     },
     "diff-red-light": {
@@ -180,11 +180,11 @@
       "type": "color"
     },
     "diff-green": {
-      "value": "#1F2F04",
+      "value": "#183425",
       "type": "color"
     },
     "diff-green-light": {
-      "value": "#121D02",
+      "value": "#142A1D",
       "type": "color"
     },
     "float": {

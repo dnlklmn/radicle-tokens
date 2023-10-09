@@ -47,7 +47,7 @@
       "type": "color"
     },
     "success": {
-      "value": "#5F930B",
+      "value": "#4FA877",
       "type": "color"
     },
     "primary-fade": {
@@ -55,7 +55,7 @@
       "type": "color"
     },
     "red": {
-      "value": "#AF1833",
+      "value": "#AA5078",
       "type": "color"
     },
     "yellow": {
@@ -89,7 +89,7 @@
       "type": "color"
     },
     "error": {
-      "value": "#AF1833",
+      "value": "#AA5078",
       "type": "color"
     },
     "merged": {
@@ -138,7 +138,7 @@
       "type": "color"
     },
     "success": {
-      "value": "#82C80F",
+      "value": "#4FA877",
       "type": "color"
     },
     "yellow": {
@@ -146,7 +146,7 @@
       "type": "color"
     },
     "danger": {
-      "value": "#E64764",
+      "value": "#BE7495",
       "type": "color"
     },
     "gray": {
@@ -158,19 +158,19 @@
       "type": "color"
     },
     "diff-green": {
-      "value": "#E1FAB8",
+      "value": "#BADECA",
       "type": "color"
     },
     "diff-green-light": {
-      "value": "#EAFCCF",
+      "value": "#DCEFE5",
       "type": "color"
     },
     "diff-red": {
-      "value": "#F9D2D9",
+      "value": "#EFDCE4",
       "type": "color"
     },
     "diff-red-light": {
-      "value": "#FCE9EC",
+      "value": "#F7EEF2",
       "type": "color"
     },
     "float": {
