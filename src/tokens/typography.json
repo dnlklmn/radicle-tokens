@@ -3,7 +3,8 @@
     "value": {
       "fontFamily": "Inter",
       "fontWeight": 600,
-      "fontSize": "1.25rem"
+      "fontSize": "1.25rem",
+      "lineHeight": "150%"
     },
     "type": "typography"
   },
@@ -49,7 +50,7 @@
     "2": {
       "value": {
         "fontFamily": "JetBrains Mono",
-        "fontWeight": 700,
+        "fontWeight": 400,
         "fontSize": "0.875rem",
         "lineHeight": "115%"
       },
@@ -102,7 +103,18 @@
         "fontFamily": "Inter",
         "fontWeight": 600,
         "fontSize": "0.875rem",
-        "lineHeight": "150%"
+        "lineHeight": "150%",
+        "textDecoration": "none"
+      },
+      "type": "typography"
+    },
+    "2-underline": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": 600,
+        "fontSize": "0.875rem",
+        "lineHeight": "150%",
+        "textDecoration": "underline"
       },
       "type": "typography"
     }
@@ -115,5 +127,25 @@
       "fontSize": "0.75rem"
     },
     "type": "typography"
+  },
+  "mono-bold": {
+    "1": {
+      "value": {
+        "fontFamily": "JetBrains Mono",
+        "fontWeight": 700,
+        "lineHeight": "150%",
+        "fontSize": "1rem"
+      },
+      "type": "typography"
+    },
+    "2": {
+      "value": {
+        "fontFamily": "JetBrains Mono",
+        "fontWeight": 700,
+        "fontSize": "0.875rem",
+        "lineHeight": "115%"
+      },
+      "type": "typography"
+    }
   }
 }

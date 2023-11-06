@@ -1,14 +1,17 @@
 :root {
-  --typography-subtitle: 600 1.25rem/1 Inter; 
+  --typography-subtitle: 600 1.25rem/150% Inter; 
   --typography-body-1: 400 1rem/150% Inter; 
   --typography-body-2: 400 0.875rem/16 Inter; 
   --typography-body-2-paragraph: 400 0.875rem/150% Inter; 
   --typography-mono-1: 400 1rem/150% 'JetBrains Mono'; 
-  --typography-mono-2: 700 0.875rem/115% 'JetBrains Mono'; 
+  --typography-mono-2: 400 0.875rem/115% 'JetBrains Mono'; 
   --typography-h-4: 600 2rem/Auto Inter; 
   --typography-h-5: 600 1.5rem/Auto Inter; 
   --typography-button-md: 600 0.875rem/16 Inter; 
   --typography-button-sm: 600 0.75rem/120% Inter; 
   --typography-link-2: 600 0.875rem/150% Inter; 
+  --typography-link-2-underline: 600 0.875rem/150% Inter; 
   --typography-label: 400 0.75rem/150% Inter; 
+  --typography-mono-bold-1: 700 1rem/150% 'JetBrains Mono'; 
+  --typography-mono-bold-2: 700 0.875rem/115% 'JetBrains Mono'; 
 }

@@ -113,6 +113,10 @@
     "match-background": {
       "value": "#0A0D10",
       "type": "color"
+    },
+    "primary": {
+      "value": "#FF1AFF",
+      "type": "color"
     }
   },
   "lg": {
@@ -148,7 +152,7 @@
       "type": "color"
     },
     "primary": {
-      "value": "#FF70FF",
+      "value": "#FF55FF",
       "type": "color"
     },
     "success": {

@@ -159,6 +159,10 @@
       }
     },
     "yellow": {
+      "400": {
+        "value": "#FFFF55",
+        "type": "color"
+      },
       "500": {
         "value": "#FFE609",
         "type": "color"

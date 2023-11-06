@@ -23,13 +23,14 @@
   --color-border-error: #AA5078; 
   --color-border-merged: #3D003D; 
   --color-border-match-background: #0A0D10; 
+  --color-border-primary: #FF1AFF; 
   --boxShadow-lg: 0 0 64px 0 #00000099; 
   --color-fill-secondary: #7070FF; 
   --color-fill-secondary-hover: #8585FF; 
   --color-fill-ghost: #24252D; 
   --color-fill-ghost-hover: #2E2F38; 
   --color-fill-separator: #24252D; 
-  --color-fill-primary: #FF70FF; 
+  --color-fill-primary: #FF55FF; 
   --color-fill-success: #4FA877; 
   --color-fill-danger: #6B2B42; 
   --color-fill-yellow: #FFE609; 
