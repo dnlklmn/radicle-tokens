@@ -16,6 +16,7 @@
   --color-foreground-gray: #9494B8; 
   --color-foreground-yellow: #E5C001; 
   --color-foreground-disabled: #494A5A; 
+  --color-foreground-primary-hover: #FF80FF; 
   --color-border-hint: #24252D; 
   --color-border-focus: #7070FF; 
   --color-border-contrast: #EBEBFF; 
@@ -24,6 +25,8 @@
   --color-border-merged: #3D003D; 
   --color-border-match-background: #0A0D10; 
   --color-border-primary: #FF1AFF; 
+  --color-border-primary-hover: #FF80FF; 
+  --color-border-selected: #1D1DAF; 
   --boxShadow-lg: 0 0 64px 0 #00000099; 
   --color-fill-secondary: #7070FF; 
   --color-fill-secondary-hover: #8585FF; 
@@ -43,4 +46,6 @@
   --color-fill-float: #14151A; 
   --color-fill-float-hover: #1B1C22; 
   --color-fill-merged: #1A001A; 
+  --color-fill-selected: #07072C; 
+  --color-fill-yellow-iconic: #FFFF55; 
 }

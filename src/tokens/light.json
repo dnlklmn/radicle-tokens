@@ -184,6 +184,10 @@
     "merged": {
       "value": "#FFEEFF",
       "type": "color"
+    },
+    "yellow-iconic": {
+      "value": "#FFFF55",
+      "type": "color"
     }
   }
 }

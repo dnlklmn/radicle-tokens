@@ -83,6 +83,10 @@
     "disabled": {
       "value": "#494A5A",
       "type": "color"
+    },
+    "primary-hover": {
+      "value": "#FF80FF",
+      "type": "color"
     }
   },
   "border": {
@@ -116,6 +120,14 @@
     },
     "primary": {
       "value": "#FF1AFF",
+      "type": "color"
+    },
+    "primary-hover": {
+      "value": "#FF80FF",
+      "type": "color"
+    },
+    "selected": {
+      "value": "#1D1DAF",
       "type": "color"
     }
   },
@@ -201,6 +213,14 @@
     },
     "merged": {
       "value": "#1A001A",
+      "type": "color"
+    },
+    "selected": {
+      "value": "#07072C",
+      "type": "color"
+    },
+    "yellow-iconic": {
+      "value": "#FFFF55",
       "type": "color"
     }
   }
