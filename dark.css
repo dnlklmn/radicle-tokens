@@ -10,22 +10,22 @@
   --color-foreground-white: #ffffff; /* Plain white for going as bright as you can.*/
   --color-foreground-black: #000000; /* Plain black, for going as dark as you can.*/
   --color-foreground-primary: #FF55FF; /* To use for the most important action on the page eg. CTA link*/
+  --color-foreground-primary-hover: #FF80FF; 
   --color-foreground-success: #4FA877; /* To signify success or open eg. issues.*/
   --color-foreground-primary-fade: linear-gradient(0deg, #750075 0%, #FF55FF 100); /* Fades from primary to a darker shade for graph lines.*/
   --color-foreground-red: #AA5078; /* To signify error eg. text field hints.*/
   --color-foreground-gray: #9494B8; 
   --color-foreground-yellow: #E5C001; 
   --color-foreground-disabled: #494A5A; 
-  --color-foreground-primary-hover: #FF80FF; 
   --color-border-hint: #24252D; 
+  --color-border-default: #2E2F38; 
   --color-border-focus: #7070FF; 
   --color-border-contrast: #EBEBFF; 
-  --color-border-default: #2E2F38; 
   --color-border-error: #AA5078; 
   --color-border-merged: #3D003D; 
   --color-border-match-background: #0A0D10; 
   --color-border-primary: #FF1AFF; 
-  --color-border-primary-hover: #FF80FF; 
+  --color-border-primary-hover: #FF55FF; 
   --color-border-selected: #1D1DAF; 
   --boxShadow-lg: 0 0 64px 0 #00000099; 
   --color-fill-secondary: #7070FF; 
@@ -34,18 +34,18 @@
   --color-fill-ghost-hover: #2E2F38; 
   --color-fill-separator: #24252D; 
   --color-fill-primary: #FF55FF; 
-  --color-fill-success: #4FA877; 
+  --color-fill-primary-hover: #FF80FF; 
   --color-fill-danger: #6B2B42; 
   --color-fill-yellow: #FFE609; 
+  --color-fill-yellow-iconic: #FFFF55; 
   --color-fill-gray: #9494B8; 
-  --color-fill-primary-hover: #FF80FF; 
   --color-fill-diff-red: #4D1929; 
   --color-fill-diff-red-light: #2D060D; 
+  --color-fill-success: #4FA877; 
   --color-fill-diff-green: #183425; 
   --color-fill-diff-green-light: #142A1D; 
   --color-fill-float: #14151A; 
   --color-fill-float-hover: #1B1C22; 
   --color-fill-merged: #1A001A; 
   --color-fill-selected: #07072C; 
-  --color-fill-yellow-iconic: #FFFF55; 
 }

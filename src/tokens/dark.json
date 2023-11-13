@@ -57,6 +57,10 @@
       "type": "color",
       "description": "To use for the most important action on the page eg. CTA link"
     },
+    "primary-hover": {
+      "value": "#FF80FF",
+      "type": "color"
+    },
     "success": {
       "value": "#4FA877",
       "type": "color",
@@ -83,15 +87,15 @@
     "disabled": {
       "value": "#494A5A",
       "type": "color"
-    },
-    "primary-hover": {
-      "value": "#FF80FF",
-      "type": "color"
     }
   },
   "border": {
     "hint": {
       "value": "#24252D",
+      "type": "color"
+    },
+    "default": {
+      "value": "#2E2F38",
       "type": "color"
     },
     "focus": {
@@ -100,10 +104,6 @@
     },
     "contrast": {
       "value": "#EBEBFF",
-      "type": "color"
-    },
-    "default": {
-      "value": "#2E2F38",
       "type": "color"
     },
     "error": {
@@ -123,7 +123,7 @@
       "type": "color"
     },
     "primary-hover": {
-      "value": "#FF80FF",
+      "value": "#FF55FF",
       "type": "color"
     },
     "selected": {
@@ -167,8 +167,8 @@
       "value": "#FF55FF",
       "type": "color"
     },
-    "success": {
-      "value": "#4FA877",
+    "primary-hover": {
+      "value": "#FF80FF",
       "type": "color"
     },
     "danger": {
@@ -179,12 +179,12 @@
       "value": "#FFE609",
       "type": "color"
     },
-    "gray": {
-      "value": "#9494B8",
+    "yellow-iconic": {
+      "value": "#FFFF55",
       "type": "color"
     },
-    "primary-hover": {
-      "value": "#FF80FF",
+    "gray": {
+      "value": "#9494B8",
       "type": "color"
     },
     "diff-red": {
@@ -193,6 +193,10 @@
     },
     "diff-red-light": {
       "value": "#2D060D",
+      "type": "color"
+    },
+    "success": {
+      "value": "#4FA877",
       "type": "color"
     },
     "diff-green": {
@@ -217,10 +221,6 @@
     },
     "selected": {
       "value": "#07072C",
-      "type": "color"
-    },
-    "yellow-iconic": {
-      "value": "#FFFF55",
       "type": "color"
     }
   }
