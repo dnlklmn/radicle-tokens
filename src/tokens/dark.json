@@ -67,7 +67,7 @@
       "description": "To signify success or open eg. issues."
     },
     "primary-fade": {
-      "value": "linear-gradient(0deg, #750075 0%, #FF55FF 100)",
+      "value": "linear-gradient(0deg, #6B006B 0%, #FF55FF 100)",
       "type": "color",
       "description": "Fades from primary to a darker shade for graph lines."
     },
@@ -111,7 +111,7 @@
       "type": "color"
     },
     "merged": {
-      "value": "#3D003D",
+      "value": "#6B006B",
       "type": "color"
     },
     "match-background": {
@@ -127,7 +127,7 @@
       "type": "color"
     },
     "selected": {
-      "value": "#1D1DAF",
+      "value": "#232563",
       "type": "color"
     }
   },
@@ -220,7 +220,7 @@
       "type": "color"
     },
     "selected": {
-      "value": "#07072C",
+      "value": "#070814",
       "type": "color"
     }
   }

@@ -12,7 +12,7 @@
   --color-foreground-primary: #FF55FF; /* To use for the most important action on the page eg. CTA link*/
   --color-foreground-primary-hover: #FF80FF; 
   --color-foreground-success: #4FA877; /* To signify success or open eg. issues.*/
-  --color-foreground-primary-fade: linear-gradient(0deg, #750075 0%, #FF55FF 100); /* Fades from primary to a darker shade for graph lines.*/
+  --color-foreground-primary-fade: linear-gradient(0deg, #6B006B 0%, #FF55FF 100); /* Fades from primary to a darker shade for graph lines.*/
   --color-foreground-red: #AA5078; /* To signify error eg. text field hints.*/
   --color-foreground-gray: #9494B8; 
   --color-foreground-yellow: #E5C001; 
@@ -22,11 +22,11 @@
   --color-border-focus: #7070FF; 
   --color-border-contrast: #EBEBFF; 
   --color-border-error: #AA5078; 
-  --color-border-merged: #3D003D; 
+  --color-border-merged: #6B006B; 
   --color-border-match-background: #0A0D10; 
   --color-border-primary: #FF1AFF; 
   --color-border-primary-hover: #FF55FF; 
-  --color-border-selected: #1D1DAF; 
+  --color-border-selected: #232563; 
   --boxShadow-lg: 0 0 64px 0 #00000099; 
   --color-fill-secondary: #7070FF; 
   --color-fill-secondary-hover: #8585FF; 
@@ -47,5 +47,5 @@
   --color-fill-float: #14151A; 
   --color-fill-float-hover: #1B1C22; 
   --color-fill-merged: #1A001A; 
-  --color-fill-selected: #07072C; 
+  --color-fill-selected: #070814; 
 }

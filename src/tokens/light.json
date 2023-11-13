@@ -1,21 +1,21 @@
 {
   "background": {
     "default": {
-      "value": "#F5F5FF",
-      "type": "color"
-    },
-    "float": {
       "value": "#FAFAFF",
       "type": "color"
     },
+    "float": {
+      "value": "#ffffff",
+      "type": "color"
+    },
     "dip": {
-      "value": "#EBEBFF",
+      "value": "#F5F5FF",
       "type": "color"
     }
   },
   "foreground": {
     "contrast": {
-      "value": "#14151A",
+      "value": "#232563",
       "type": "color"
     },
     "dim": {
@@ -31,7 +31,7 @@
       "type": "color"
     },
     "match-background": {
-      "value": "#F5F5FF",
+      "value": "#FAFAFF",
       "type": "color"
     },
     "white": {
@@ -81,7 +81,7 @@
       "type": "color"
     },
     "default": {
-      "value": "#B8B8FF",
+      "value": "#E5E5FF",
       "type": "color"
     },
     "focus": {
@@ -101,7 +101,7 @@
       "type": "color"
     },
     "match-background": {
-      "value": "#F5F5FF",
+      "value": "#FAFAFF",
       "type": "color"
     },
     "primary": {
@@ -113,7 +113,7 @@
       "type": "color"
     },
     "selected": {
-      "value": "#7070FF",
+      "value": "#E5E5FF",
       "type": "color"
     }
   },
@@ -138,7 +138,7 @@
       "type": "color"
     },
     "ghost": {
-      "value": "#E5E5FF",
+      "value": "#EBEBFF",
       "type": "color"
     },
     "ghost-hover": {
@@ -194,7 +194,7 @@
       "type": "color"
     },
     "float": {
-      "value": "#FAFAFF",
+      "value": "#ffffff",
       "type": "color"
     },
     "float-hover": {
@@ -205,7 +205,7 @@
       "value": "#FFEEFF",
       "type": "color"
     },
-    "selecteed": {
+    "selected": {
       "value": "#EBEBFF",
       "type": "color"
     }
