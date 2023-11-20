@@ -129,6 +129,10 @@
     "selected": {
       "value": "#232563",
       "type": "color"
+    },
+    "warning": {
+      "value": "#4C4000",
+      "type": "color"
     }
   },
   "lg": {
@@ -221,6 +225,10 @@
     },
     "selected": {
       "value": "#070814",
+      "type": "color"
+    },
+    "warning": {
+      "value": "#191500",
       "type": "color"
     }
   }
