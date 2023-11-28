@@ -13,6 +13,7 @@
   --color-foreground-primary-hover: #FF80FF; 
   --color-foreground-success: #4FA877; 
   --color-foreground-primary-fade: linear-gradient(0deg, #FF80FF 0%, #FF1AFF 100); 
+  --color-foreground-yellow-fade: linear-gradient(0deg, #FFE609 0%, #E5C001 100); 
   --color-foreground-red: #AA5078; 
   --color-foreground-gray: #9494B8; 
   --color-foreground-yellow: #E5C001; 
@@ -33,8 +34,8 @@
   --color-fill-secondary: #7070FF; 
   --color-fill-secondary-hover: #8585FF; 
   --color-fill-ghost: #EBEBFF; 
-  --color-fill-ghost-hover: #EBEBFF; 
-  --color-fill-separator: #EAEAF1; 
+  --color-fill-ghost-hover: #F5F5FF; 
+  --color-fill-separator: #DBDBFF; 
   --color-fill-primary: #FF70FF; 
   --color-fill-primary-hover: #FF80FF; 
   --color-fill-danger: #BE7495; 

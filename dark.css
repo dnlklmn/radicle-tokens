@@ -13,6 +13,7 @@
   --color-foreground-primary-hover: #FF80FF; 
   --color-foreground-success: #4FA877; /* To signify success or open eg. issues.*/
   --color-foreground-primary-fade: linear-gradient(0deg, #6B006B 0%, #FF55FF 100); /* Fades from primary to a darker shade for graph lines.*/
+  --color-foreground-yellow-fade: linear-gradient(0deg, #4C4000 0%, #E5C001 100); /* Fades from primary to a darker shade for graph lines.*/
   --color-foreground-red: #AA5078; /* To signify error eg. text field hints.*/
   --color-foreground-gray: #9494B8; 
   --color-foreground-yellow: #E5C001; 

@@ -58,6 +58,10 @@
       "value": "linear-gradient(0deg, #FF80FF 0%, #FF1AFF 100)",
       "type": "color"
     },
+    "yellow-fade": {
+      "value": "linear-gradient(0deg, #FFE609 0%, #E5C001 100)",
+      "type": "color"
+    },
     "red": {
       "value": "#AA5078",
       "type": "color"
@@ -150,11 +154,11 @@
       "type": "color"
     },
     "ghost-hover": {
-      "value": "#EBEBFF",
+      "value": "#F5F5FF",
       "type": "color"
     },
     "separator": {
-      "value": "#EAEAF1",
+      "value": "#DBDBFF",
       "type": "color"
     },
     "primary": {
