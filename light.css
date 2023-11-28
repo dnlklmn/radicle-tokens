@@ -1,12 +1,12 @@
 :root {
-  --color-background-default: #FAFAFF; 
-  --color-background-float: #ffffff; 
+  --color-background-default: #F5F5FF; 
+  --color-background-float: #FAFAFF; 
   --color-background-dip: #F5F5FF; 
   --color-foreground-contrast: #232563; 
   --color-foreground-dim: #70718F; 
   --color-foreground-emphasized: #7070FF; 
   --color-foreground-emphasized-hover: #8585FF; 
-  --color-foreground-match-background: #FAFAFF; 
+  --color-foreground-match-background: #F5F5FF; 
   --color-foreground-white: #ffffff; 
   --color-foreground-black: #000000; 
   --color-foreground-primary: #FF55FF; 
@@ -17,17 +17,18 @@
   --color-foreground-gray: #9494B8; 
   --color-foreground-yellow: #E5C001; 
   --color-foreground-disabled: #B2B2CC; 
-  --color-border-hint: #E5E5FF; 
-  --color-border-default: #E5E5FF; 
+  --color-border-hint: #DBDBFF; 
+  --color-border-default: #DBDBFF; 
   --color-border-focus: #7070FF; 
   --color-border-contrast: #24252D; 
-  --color-border-error: #AA5078; 
+  --color-border-error: #CE97AF; 
   --color-border-merged: #FFE5FF; 
-  --color-border-match-background: #FAFAFF; 
+  --color-border-match-background: #F5F5FF; 
   --color-border-primary: #FF1AFF; 
   --color-border-primary-hover: #FF55FF; 
-  --color-border-selected: #E5E5FF; 
+  --color-border-selected: #DBDBFF; 
   --color-border-warning: #FFE609; 
+  --color-border-success: #97CEB0; 
   --boxShadow-lg: 0 0 64px 0 #0000001a; 
   --color-fill-secondary: #7070FF; 
   --color-fill-secondary-hover: #8585FF; 
@@ -45,7 +46,7 @@
   --color-fill-success: #4FA877; 
   --color-fill-diff-green: #BADECA; 
   --color-fill-diff-green-light: #DCEFE5; 
-  --color-fill-float: #ffffff; 
+  --color-fill-float: #FAFAFF; 
   --color-fill-float-hover: #ffffff; 
   --color-fill-merged: #FFEEFF; 
   --color-fill-selected: #EBEBFF; 

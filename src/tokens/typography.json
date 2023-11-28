@@ -27,6 +27,15 @@
       },
       "type": "typography"
     },
+    "1-bold": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": 600,
+        "lineHeight": "150%",
+        "fontSize": "1rem"
+      },
+      "type": "typography"
+    },
     "2-paragraph": {
       "value": {
         "fontFamily": "Inter",
@@ -55,6 +64,24 @@
         "lineHeight": "115%"
       },
       "type": "typography"
+    },
+    "1-bold": {
+      "value": {
+        "fontFamily": "JetBrains Mono",
+        "fontWeight": 700,
+        "lineHeight": "150%",
+        "fontSize": "1rem"
+      },
+      "type": "typography"
+    },
+    "2-bold": {
+      "value": {
+        "fontFamily": "JetBrains Mono",
+        "fontWeight": 700,
+        "fontSize": "0.875rem",
+        "lineHeight": "115%"
+      },
+      "type": "typography"
     }
   },
   "h": {
@@ -71,6 +98,15 @@
       "value": {
         "fontFamily": "Inter",
         "fontWeight": 600,
+        "lineHeight": "Auto",
+        "fontSize": "1.5rem"
+      },
+      "type": "typography"
+    },
+    "5-regular": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
         "lineHeight": "Auto",
         "fontSize": "1.5rem"
       },
@@ -127,25 +163,5 @@
       "fontSize": "0.75rem"
     },
     "type": "typography"
-  },
-  "mono-bold": {
-    "1": {
-      "value": {
-        "fontFamily": "JetBrains Mono",
-        "fontWeight": 700,
-        "lineHeight": "150%",
-        "fontSize": "1rem"
-      },
-      "type": "typography"
-    },
-    "2": {
-      "value": {
-        "fontFamily": "JetBrains Mono",
-        "fontWeight": 700,
-        "fontSize": "0.875rem",
-        "lineHeight": "115%"
-      },
-      "type": "typography"
-    }
   }
 }

@@ -107,7 +107,7 @@
       "type": "color"
     },
     "error": {
-      "value": "#AA5078",
+      "value": "#6B2B42",
       "type": "color"
     },
     "merged": {
@@ -132,6 +132,10 @@
     },
     "warning": {
       "value": "#4C4000",
+      "type": "color"
+    },
+    "success": {
+      "value": "#2A5A40",
       "type": "color"
     }
   },
@@ -176,7 +180,7 @@
       "type": "color"
     },
     "danger": {
-      "value": "#6B2B42",
+      "value": "#4D1929",
       "type": "color"
     },
     "yellow": {
@@ -224,7 +228,7 @@
       "type": "color"
     },
     "selected": {
-      "value": "#070814",
+      "value": "#16173D",
       "type": "color"
     },
     "warning": {
