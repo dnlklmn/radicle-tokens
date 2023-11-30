@@ -17,7 +17,7 @@
   --color-foreground-red: #AA5078; /* To signify error eg. text field hints.*/
   --color-foreground-gray: #9494B8; 
   --color-foreground-yellow: #E5C001; 
-  --color-foreground-disabled: #494A5A; 
+  --color-foreground-disabled: #393A46; 
   --color-border-hint: #24252D; 
   --color-border-default: #2E2F38; 
   --color-border-focus: #7070FF; 
@@ -38,7 +38,7 @@
   --color-fill-separator: #24252D; 
   --color-fill-primary: #FF55FF; 
   --color-fill-primary-hover: #FF80FF; 
-  --color-fill-danger: #4D1929; 
+  --color-fill-danger: #AA5078; 
   --color-fill-yellow: #FFE609; 
   --color-fill-yellow-iconic: #FFFF55; 
   --color-fill-gray: #9494B8; 
@@ -52,4 +52,6 @@
   --color-fill-merged: #1A001A; 
   --color-fill-selected: #16173D; 
   --color-fill-warning: #191500; 
+  --color-fill-counter: #393A46; 
+  --color-fill-counter-emphasized: #232563; 
 }

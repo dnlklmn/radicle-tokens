@@ -4,8 +4,8 @@
   --color-background-dip: #F5F5FF; 
   --color-foreground-contrast: #232563; 
   --color-foreground-dim: #70718F; 
-  --color-foreground-emphasized: #7070FF; 
-  --color-foreground-emphasized-hover: #8585FF; 
+  --color-foreground-emphasized: #8585FF; 
+  --color-foreground-emphasized-hover: #7070FF; 
   --color-foreground-match-background: #F5F5FF; 
   --color-foreground-white: #ffffff; 
   --color-foreground-black: #000000; 
@@ -52,4 +52,6 @@
   --color-fill-merged: #FFEEFF; 
   --color-fill-selected: #EBEBFF; 
   --color-fill-warning: #FFFFE5; 
+  --color-fill-counter: #DBDBFF; 
+  --color-fill-counter-emphasized: #DBDBFF; 
 }

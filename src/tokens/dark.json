@@ -90,7 +90,7 @@
       "type": "color"
     },
     "disabled": {
-      "value": "#494A5A",
+      "value": "#393A46",
       "type": "color"
     }
   },
@@ -185,7 +185,7 @@
       "type": "color"
     },
     "danger": {
-      "value": "#4D1929",
+      "value": "#AA5078",
       "type": "color"
     },
     "yellow": {
@@ -238,6 +238,14 @@
     },
     "warning": {
       "value": "#191500",
+      "type": "color"
+    },
+    "counter": {
+      "value": "#393A46",
+      "type": "color"
+    },
+    "counter-emphasized": {
+      "value": "#232563",
       "type": "color"
     }
   }

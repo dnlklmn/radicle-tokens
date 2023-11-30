@@ -23,11 +23,11 @@
       "type": "color"
     },
     "emphasized": {
-      "value": "#7070FF",
+      "value": "#8585FF",
       "type": "color"
     },
     "emphasized-hover": {
-      "value": "#8585FF",
+      "value": "#7070FF",
       "type": "color"
     },
     "match-background": {
@@ -223,6 +223,14 @@
     },
     "warning": {
       "value": "#FFFFE5",
+      "type": "color"
+    },
+    "counter": {
+      "value": "#DBDBFF",
+      "type": "color"
+    },
+    "counter-emphasized": {
+      "value": "#DBDBFF",
       "type": "color"
     }
   }
