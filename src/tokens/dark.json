@@ -1,252 +1,252 @@
 {
   "background": {
     "default": {
-      "value": "#0A0D10",
-      "type": "color",
-      "description": "Use on full screen background."
+      "$value": "#0A0D10",
+      "$type": "color",
+      "$description": "Use on full screen background."
     },
     "float": {
-      "value": "#14151A",
-      "type": "color",
-      "description": "A shade lighter than the default background for elements that float above the default background, eg. modals, popovers."
+      "$value": "#14151A",
+      "$type": "color",
+      "$description": "A shade lighter than the default background for elements that float above the default background, eg. modals, popovers."
     },
     "dip": {
-      "value": "#000000",
-      "type": "color",
-      "description": "A shade darker than the default background for elements that are below the default background, eg. read only card, info section."
+      "$value": "#000000",
+      "$type": "color",
+      "$description": "A shade darker than the default background for elements that are below the default background, eg. read only card, info section."
     }
   },
   "foreground": {
     "contrast": {
-      "value": "#F9F9FB",
-      "type": "color",
-      "description": "For text and icons on full screen background eg. body text, icons, button text."
+      "$value": "#F9F9FB",
+      "$type": "color",
+      "$description": "For text and icons on full screen background eg. body text, icons, button text."
     },
     "dim": {
-      "value": "#9494B8",
-      "type": "color",
-      "description": "For deemphasized text and icons on full screen background eg. time stamps."
+      "$value": "#9494B8",
+      "$type": "color",
+      "$description": "For deemphasized text and icons on full screen background eg. time stamps."
     },
     "emphasized": {
-      "value": "#7070FF",
-      "type": "color",
-      "description": "For emphasized text and icons on full screen background eg. links, ids."
+      "$value": "#7070FF",
+      "$type": "color",
+      "$description": "For emphasized text and icons on full screen background eg. links, ids."
     },
     "emphasized-hover": {
-      "value": "#8585FF",
-      "type": "color",
-      "description": "A shade lighter than emphasized for hovering interactive text and icons eg. links, ids."
+      "$value": "#8585FF",
+      "$type": "color",
+      "$description": "A shade lighter than emphasized for hovering interactive text and icons eg. links, ids."
     },
     "match-background": {
-      "value": "#0A0D10",
-      "type": "color",
-      "description": "To use on backgrounds contrasting the default background eg. button text on a blue button."
+      "$value": "#0A0D10",
+      "$type": "color",
+      "$description": "To use on backgrounds contrasting the default background eg. button text on a blue button."
     },
     "white": {
-      "value": "#ffffff",
-      "type": "color",
-      "description": "Plain white for going as bright as you can."
+      "$value": "#ffffff",
+      "$type": "color",
+      "$description": "Plain white for going as bright as you can."
     },
     "black": {
-      "value": "#000000",
-      "type": "color",
-      "description": "Plain black, for going as dark as you can."
+      "$value": "#000000",
+      "$type": "color",
+      "$description": "Plain black, for going as dark as you can."
     },
     "primary": {
-      "value": "#FF55FF",
-      "type": "color",
-      "description": "To use for the most important action on the page eg. CTA link"
+      "$value": "#FF55FF",
+      "$type": "color",
+      "$description": "To use for the most important action on the page eg. CTA link"
     },
     "primary-hover": {
-      "value": "#FF80FF",
-      "type": "color"
+      "$value": "#FF80FF",
+      "$type": "color"
     },
     "success": {
-      "value": "#4FA877",
-      "type": "color",
-      "description": "To signify success or open eg. issues."
+      "$value": "#4FA877",
+      "$type": "color",
+      "$description": "To signify success or open eg. issues."
     },
     "primary-fade": {
-      "value": "linear-gradient(0deg, #6B006B 0%, #FF55FF 100)",
-      "type": "color",
-      "description": "Fades from primary to a darker shade for graph lines."
+      "$value": "linear-gradient(0deg, #6B006B 0%, #FF55FF 100)",
+      "$type": "color",
+      "$description": "Fades from primary to a darker shade for graph lines."
     },
     "yellow-fade": {
-      "value": "linear-gradient(0deg, #4C4000 0%, #E5C001 100)",
-      "type": "color",
-      "description": "Fades from primary to a darker shade for graph lines."
+      "$value": "linear-gradient(0deg, #4C4000 0%, #E5C001 100)",
+      "$type": "color",
+      "$description": "Fades from primary to a darker shade for graph lines."
     },
     "red": {
-      "value": "#AA5078",
-      "type": "color",
-      "description": "To signify error eg. text field hints."
+      "$value": "#AA5078",
+      "$type": "color",
+      "$description": "To signify error eg. text field hints."
     },
     "gray": {
-      "value": "#9494B8",
-      "type": "color"
+      "$value": "#9494B8",
+      "$type": "color"
     },
     "yellow": {
-      "value": "#E5C001",
-      "type": "color"
+      "$value": "#E5C001",
+      "$type": "color"
     },
     "disabled": {
-      "value": "#393A46",
-      "type": "color"
+      "$value": "#393A46",
+      "$type": "color"
     }
   },
   "border": {
     "hint": {
-      "value": "#24252D",
-      "type": "color"
+      "$value": "#24252D",
+      "$type": "color"
     },
     "default": {
-      "value": "#2E2F38",
-      "type": "color"
+      "$value": "#2E2F38",
+      "$type": "color"
     },
     "focus": {
-      "value": "#7070FF",
-      "type": "color"
+      "$value": "#7070FF",
+      "$type": "color"
     },
     "contrast": {
-      "value": "#EBEBFF",
-      "type": "color"
+      "$value": "#EBEBFF",
+      "$type": "color"
     },
     "error": {
-      "value": "#6B2B42",
-      "type": "color"
+      "$value": "#6B2B42",
+      "$type": "color"
     },
     "merged": {
-      "value": "#6B006B",
-      "type": "color"
+      "$value": "#6B006B",
+      "$type": "color"
     },
     "match-background": {
-      "value": "#0A0D10",
-      "type": "color"
+      "$value": "#0A0D10",
+      "$type": "color"
     },
     "primary": {
-      "value": "#FF1AFF",
-      "type": "color"
+      "$value": "#FF1AFF",
+      "$type": "color"
     },
     "primary-hover": {
-      "value": "#FF55FF",
-      "type": "color"
+      "$value": "#FF55FF",
+      "$type": "color"
     },
     "selected": {
-      "value": "#232563",
-      "type": "color"
+      "$value": "#232563",
+      "$type": "color"
     },
     "warning": {
-      "value": "#4C4000",
-      "type": "color"
+      "$value": "#4C4000",
+      "$type": "color"
     },
     "success": {
-      "value": "#2A5A40",
-      "type": "color"
+      "$value": "#2A5A40",
+      "$type": "color"
     }
   },
   "lg": {
-    "value": {
+    "$value": {
       "x": 0,
       "y": 0,
       "blur": 64,
       "spread": 0,
       "color": "#00000099",
-      "type": "dropShadow"
+      "$type": "dropShadow"
     },
-    "type": "boxShadow"
+    "$type": "boxShadow"
   },
   "fill": {
     "secondary": {
-      "value": "#7070FF",
-      "type": "color"
+      "$value": "#7070FF",
+      "$type": "color"
     },
     "secondary-hover": {
-      "value": "#8585FF",
-      "type": "color"
+      "$value": "#8585FF",
+      "$type": "color"
     },
     "ghost": {
-      "value": "#24252D",
-      "type": "color"
+      "$value": "#24252D",
+      "$type": "color"
     },
     "ghost-hover": {
-      "value": "#2E2F38",
-      "type": "color"
+      "$value": "#2E2F38",
+      "$type": "color"
     },
     "separator": {
-      "value": "#24252D",
-      "type": "color"
+      "$value": "#24252D",
+      "$type": "color"
     },
     "primary": {
-      "value": "#FF55FF",
-      "type": "color"
+      "$value": "#FF55FF",
+      "$type": "color"
     },
     "primary-hover": {
-      "value": "#FF80FF",
-      "type": "color"
+      "$value": "#FF80FF",
+      "$type": "color"
     },
     "danger": {
-      "value": "#AA5078",
-      "type": "color"
+      "$value": "#AA5078",
+      "$type": "color"
     },
     "yellow": {
-      "value": "#FFE609",
-      "type": "color"
+      "$value": "#FFE609",
+      "$type": "color"
     },
     "yellow-iconic": {
-      "value": "#FFFF55",
-      "type": "color"
+      "$value": "#FFFF55",
+      "$type": "color"
     },
     "gray": {
-      "value": "#9494B8",
-      "type": "color"
+      "$value": "#9494B8",
+      "$type": "color"
     },
     "diff-red": {
-      "value": "#4D1929",
-      "type": "color"
+      "$value": "#4D1929",
+      "$type": "color"
     },
     "diff-red-light": {
-      "value": "#2D060D",
-      "type": "color"
+      "$value": "#2D060D",
+      "$type": "color"
     },
     "success": {
-      "value": "#4FA877",
-      "type": "color"
+      "$value": "#4FA877",
+      "$type": "color"
     },
     "diff-green": {
-      "value": "#183425",
-      "type": "color"
+      "$value": "#183425",
+      "$type": "color"
     },
     "diff-green-light": {
-      "value": "#142A1D",
-      "type": "color"
+      "$value": "#142A1D",
+      "$type": "color"
     },
     "float": {
-      "value": "#14151A",
-      "type": "color"
+      "$value": "#14151A",
+      "$type": "color"
     },
     "float-hover": {
-      "value": "#1B1C22",
-      "type": "color"
+      "$value": "#1B1C22",
+      "$type": "color"
     },
     "merged": {
-      "value": "#1A001A",
-      "type": "color"
+      "$value": "#1A001A",
+      "$type": "color"
     },
     "selected": {
-      "value": "#16173D",
-      "type": "color"
+      "$value": "#16173D",
+      "$type": "color"
     },
     "warning": {
-      "value": "#191500",
-      "type": "color"
+      "$value": "#191500",
+      "$type": "color"
     },
     "counter": {
-      "value": "#393A46",
-      "type": "color"
+      "$value": "#393A46",
+      "$type": "color"
     },
     "counter-emphasized": {
-      "value": "#232563",
-      "type": "color"
+      "$value": "#232563",
+      "$type": "color"
     }
   }
 }
