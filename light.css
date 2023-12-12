@@ -3,7 +3,7 @@
   --color-background-float: #FAFAFF; 
   --color-background-dip: #F5F5FF; 
   --color-foreground-contrast: #232563; 
-  --color-foreground-dim: #70718F; 
+  --color-foreground-dim: #73748C; 
   --color-foreground-emphasized: #8585FF; 
   --color-foreground-emphasized-hover: #7070FF; 
   --color-foreground-match-background: #F5F5FF; 
@@ -15,9 +15,8 @@
   --color-foreground-primary-fade: linear-gradient(0deg, #FF80FF 0%, #FF1AFF 100); 
   --color-foreground-yellow-fade: linear-gradient(0deg, #FFE609 0%, #E5C001 100); 
   --color-foreground-red: #AA5078; 
-  --color-foreground-gray: #9494B8; 
   --color-foreground-yellow: #E5C001; 
-  --color-foreground-disabled: #B2B2CC; 
+  --color-foreground-disabled: #B7B7C7; 
   --color-border-hint: #DBDBFF; 
   --color-border-default: #DBDBFF; 
   --color-border-focus: #7070FF; 
@@ -41,7 +40,7 @@
   --color-fill-danger: #BE7495; 
   --color-fill-yellow: #FFE609; 
   --color-fill-yellow-iconic: #FFFF55; 
-  --color-fill-gray: #9494B8; 
+  --color-fill-gray: #9B9BB1; 
   --color-fill-diff-red: #EFDCE4; 
   --color-fill-diff-red-light: #F7EEF2; 
   --color-fill-success: #4FA877; 

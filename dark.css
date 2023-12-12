@@ -3,7 +3,7 @@
   --color-background-float: #14151A; /* A shade lighter than the default background for elements that float above the default background, eg. modals, popovers.*/
   --color-background-dip: #000000; /* A shade darker than the default background for elements that are below the default background, eg. read only card, info section.*/
   --color-foreground-contrast: #F9F9FB; /* For text and icons on full screen background eg. body text, icons, button text.*/
-  --color-foreground-dim: #9494B8; /* For deemphasized text and icons on full screen background eg. time stamps.*/
+  --color-foreground-dim: #9B9BB1; /* For deemphasized text and icons on full screen background eg. time stamps.*/
   --color-foreground-emphasized: #7070FF; /* For emphasized text and icons on full screen background eg. links, ids.*/
   --color-foreground-emphasized-hover: #8585FF; /* A shade lighter than emphasized for hovering interactive text and icons eg. links, ids.*/
   --color-foreground-match-background: #0A0D10; /* To use on backgrounds contrasting the default background eg. button text on a blue button.*/
@@ -15,7 +15,6 @@
   --color-foreground-primary-fade: linear-gradient(0deg, #6B006B 0%, #FF55FF 100); /* Fades from primary to a darker shade for graph lines.*/
   --color-foreground-yellow-fade: linear-gradient(0deg, #4C4000 0%, #E5C001 100); /* Fades from primary to a darker shade for graph lines.*/
   --color-foreground-red: #AA5078; /* To signify error eg. text field hints.*/
-  --color-foreground-gray: #9494B8; 
   --color-foreground-yellow: #E5C001; 
   --color-foreground-disabled: #393A46; 
   --color-border-hint: #24252D; 
@@ -41,7 +40,7 @@
   --color-fill-danger: #AA5078; 
   --color-fill-yellow: #FFE609; 
   --color-fill-yellow-iconic: #FFFF55; 
-  --color-fill-gray: #9494B8; 
+  --color-fill-gray: #9B9BB1; 
   --color-fill-diff-red: #4D1929; 
   --color-fill-diff-red-light: #2D060D; 
   --color-fill-success: #4FA877; 

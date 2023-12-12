@@ -19,7 +19,7 @@
       "type": "color"
     },
     "dim": {
-      "value": "#70718F",
+      "value": "#73748C",
       "type": "color"
     },
     "emphasized": {
@@ -66,16 +66,12 @@
       "value": "#AA5078",
       "type": "color"
     },
-    "gray": {
-      "value": "#9494B8",
-      "type": "color"
-    },
     "yellow": {
       "value": "#E5C001",
       "type": "color"
     },
     "disabled": {
-      "value": "#B2B2CC",
+      "value": "#B7B7C7",
       "type": "color"
     }
   },
@@ -182,7 +178,7 @@
       "type": "color"
     },
     "gray": {
-      "value": "#9494B8",
+      "value": "#9B9BB1",
       "type": "color"
     },
     "diff-red": {
