@@ -19,7 +19,7 @@
       "type": "color"
     },
     "dim": {
-      "value": "#73748C",
+      "value": "#6A6A81",
       "type": "color"
     },
     "emphasized": {
@@ -71,7 +71,7 @@
       "type": "color"
     },
     "disabled": {
-      "value": "#B7B7C7",
+      "value": "#9B9BB1",
       "type": "color"
     }
   },

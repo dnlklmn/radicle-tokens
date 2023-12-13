@@ -16,7 +16,7 @@
   --color-foreground-yellow-fade: linear-gradient(0deg, #4C4000 0%, #E5C001 100); /* Fades from primary to a darker shade for graph lines.*/
   --color-foreground-red: #AA5078; /* To signify error eg. text field hints.*/
   --color-foreground-yellow: #E5C001; 
-  --color-foreground-disabled: #393A46; 
+  --color-foreground-disabled: #6A6A81; 
   --color-border-hint: #24252D; 
   --color-border-default: #2E2F38; 
   --color-border-focus: #7070FF; 
