@@ -243,6 +243,14 @@
     "counter-emphasized": {
       "value": "#232563",
       "type": "color"
+    },
+    "delegate": {
+      "value": "#3D003D",
+      "type": "color"
+    },
+    "private": {
+      "value": "#4C4000",
+      "type": "color"
     }
   }
 }

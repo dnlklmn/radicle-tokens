@@ -67,7 +67,7 @@
       "type": "color"
     },
     "yellow": {
-      "value": "#E5C001",
+      "value": "#B29401",
       "type": "color"
     },
     "disabled": {
@@ -227,6 +227,14 @@
     },
     "counter-emphasized": {
       "value": "#DBDBFF",
+      "type": "color"
+    },
+    "delegate": {
+      "value": "#FFE5FF",
+      "type": "color"
+    },
+    "private": {
+      "value": "#FFF5D6",
       "type": "color"
     }
   }
