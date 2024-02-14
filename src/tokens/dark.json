@@ -251,6 +251,10 @@
     "private": {
       "value": "#4C4000",
       "type": "color"
+    },
+    "secondary-counter": {
+      "value": "#9497FF",
+      "type": "color"
     }
   }
 }
