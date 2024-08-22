@@ -160,6 +160,10 @@
       "value": "#8585FF",
       "type": "color"
     },
+    "secondary-shade": {
+      "value": "#5555FF",
+      "type": "color"
+    },
     "ghost": {
       "value": "#24252D",
       "type": "color"
@@ -173,11 +177,15 @@
       "type": "color"
     },
     "primary": {
-      "value": "#FF55FF",
+      "value": "#FF1AFF",
       "type": "color"
     },
     "primary-hover": {
-      "value": "#FF80FF",
+      "value": "#FF4DFF",
+      "type": "color"
+    },
+    "primary-shade": {
+      "value": "#E500E5",
       "type": "color"
     },
     "danger": {
@@ -241,7 +249,7 @@
       "type": "color"
     },
     "counter-emphasized": {
-      "value": "#232563",
+      "value": "#16173D",
       "type": "color"
     },
     "delegate": {
@@ -254,6 +262,14 @@
     },
     "secondary-counter": {
       "value": "#9497FF",
+      "type": "color"
+    },
+    "primary-counter": {
+      "value": "#FF80FF",
+      "type": "color"
+    },
+    "ghost-shade": {
+      "value": "#1B1C22",
       "type": "color"
     }
   }

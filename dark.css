@@ -32,11 +32,13 @@
   --boxShadow-lg: 0 0 64px 0 #00000099; 
   --color-fill-secondary: #7070FF; 
   --color-fill-secondary-hover: #8585FF; 
+  --color-fill-secondary-shade: #5555FF; 
   --color-fill-ghost: #24252D; 
   --color-fill-ghost-hover: #2E2F38; 
   --color-fill-separator: #24252D; 
-  --color-fill-primary: #FF55FF; 
-  --color-fill-primary-hover: #FF80FF; 
+  --color-fill-primary: #FF1AFF; 
+  --color-fill-primary-hover: #FF4DFF; 
+  --color-fill-primary-shade: #E500E5; 
   --color-fill-danger: #AA5078; 
   --color-fill-yellow: #FFE609; 
   --color-fill-yellow-iconic: #FFFF55; 
@@ -52,8 +54,10 @@
   --color-fill-selected: #16173D; 
   --color-fill-warning: #191500; 
   --color-fill-counter: #393A46; 
-  --color-fill-counter-emphasized: #232563; 
+  --color-fill-counter-emphasized: #16173D; 
   --color-fill-delegate: #3D003D; 
   --color-fill-private: #4C4000; 
   --color-fill-secondary-counter: #9497FF; 
+  --color-fill-primary-counter: #FF80FF; 
+  --color-fill-ghost-shade: #1B1C22; 
 }

@@ -150,7 +150,7 @@
       "type": "color"
     },
     "ghost-hover": {
-      "value": "#F5F5FF",
+      "value": "#DBDBFF",
       "type": "color"
     },
     "separator": {
@@ -206,7 +206,7 @@
       "type": "color"
     },
     "float-hover": {
-      "value": "#ffffff",
+      "value": "#DBDBFF",
       "type": "color"
     },
     "merged": {
