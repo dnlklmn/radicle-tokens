@@ -10,9 +10,9 @@
   --color-foreground-white: #ffffff; 
   --color-foreground-black: #000000; 
   --color-foreground-primary: #FF55FF; 
-  --color-foreground-primary-hover: #FF80FF; 
+  --color-foreground-primary-hover: #FF8FFF; 
   --color-foreground-success: #4FA877; 
-  --color-foreground-primary-fade: linear-gradient(0deg, #FF80FF 0%, #FF1AFF 100); 
+  --color-foreground-primary-fade: linear-gradient(0deg, #FF8FFF 0%, #FF1AFF 100); 
   --color-foreground-yellow-fade: linear-gradient(0deg, #FFE609 0%, #E5C001 100); 
   --color-foreground-red: #AA5078; 
   --color-foreground-yellow: #B29401; 
@@ -33,14 +33,16 @@
   --color-fill-secondary: #7070FF; 
   --color-fill-secondary-hover: #8585FF; 
   --color-fill-ghost: #EBEBFF; 
-  --color-fill-ghost-hover: #DBDBFF; 
+  --color-fill-ghost-hover: #F5F5FF; 
   --color-fill-separator: #DBDBFF; 
-  --color-fill-primary: #FF70FF; 
-  --color-fill-primary-hover: #FF80FF; 
+  --color-fill-primary: #FF55FF; 
+  --color-fill-primary-hover: #FF70FF; 
+  --color-fill-primary-shade: #FF1AFF; 
   --color-fill-danger: #BE7495; 
   --color-fill-yellow: #FFE609; 
   --color-fill-yellow-iconic: #FFFF55; 
   --color-fill-gray: #9B9BB1; 
+  --color-fill-secondary-shade: #5555FF; 
   --color-fill-diff-red: #EFDCE4; 
   --color-fill-diff-red-light: #F7EEF2; 
   --color-fill-success: #4FA877; 
@@ -51,9 +53,11 @@
   --color-fill-merged: #FFEEFF; 
   --color-fill-selected: #EBEBFF; 
   --color-fill-warning: #FFFFE5; 
-  --color-fill-counter: #DBDBFF; 
+  --color-fill-counter: #FAFAFF; 
   --color-fill-counter-emphasized: #DBDBFF; 
   --color-fill-delegate: #FFE5FF; 
   --color-fill-private: #FFF5D6; 
   --color-fill-secondary-counter: #9497FF; 
+  --color-fill-primary-counter: #FF8FFF; 
+  --color-fill-ghost-shade: #DBDBFF; 
 }

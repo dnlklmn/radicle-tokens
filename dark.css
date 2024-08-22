@@ -10,7 +10,7 @@
   --color-foreground-white: #ffffff; /* Plain white for going as bright as you can.*/
   --color-foreground-black: #000000; /* Plain black, for going as dark as you can.*/
   --color-foreground-primary: #FF55FF; /* To use for the most important action on the page eg. CTA link*/
-  --color-foreground-primary-hover: #FF80FF; 
+  --color-foreground-primary-hover: #FF8FFF; 
   --color-foreground-success: #4FA877; /* To signify success or open eg. issues.*/
   --color-foreground-primary-fade: linear-gradient(0deg, #6B006B 0%, #FF55FF 100); /* Fades from primary to a darker shade for graph lines.*/
   --color-foreground-yellow-fade: linear-gradient(0deg, #4C4000 0%, #E5C001 100); /* Fades from primary to a darker shade for graph lines.*/
@@ -58,6 +58,6 @@
   --color-fill-delegate: #3D003D; 
   --color-fill-private: #4C4000; 
   --color-fill-secondary-counter: #9497FF; 
-  --color-fill-primary-counter: #FF80FF; 
+  --color-fill-primary-counter: #FF8FFF; 
   --color-fill-ghost-shade: #1B1C22; 
 }

@@ -58,7 +58,7 @@
       "description": "To use for the most important action on the page eg. CTA link"
     },
     "primary-hover": {
-      "value": "#FF80FF",
+      "value": "#FF8FFF",
       "type": "color"
     },
     "success": {
@@ -265,7 +265,7 @@
       "type": "color"
     },
     "primary-counter": {
-      "value": "#FF80FF",
+      "value": "#FF8FFF",
       "type": "color"
     },
     "ghost-shade": {

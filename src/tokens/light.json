@@ -47,7 +47,7 @@
       "type": "color"
     },
     "primary-hover": {
-      "value": "#FF80FF",
+      "value": "#FF8FFF",
       "type": "color"
     },
     "success": {
@@ -55,7 +55,7 @@
       "type": "color"
     },
     "primary-fade": {
-      "value": "linear-gradient(0deg, #FF80FF 0%, #FF1AFF 100)",
+      "value": "linear-gradient(0deg, #FF8FFF 0%, #FF1AFF 100)",
       "type": "color"
     },
     "yellow-fade": {
@@ -150,7 +150,7 @@
       "type": "color"
     },
     "ghost-hover": {
-      "value": "#DBDBFF",
+      "value": "#F5F5FF",
       "type": "color"
     },
     "separator": {
@@ -158,11 +158,15 @@
       "type": "color"
     },
     "primary": {
-      "value": "#FF70FF",
+      "value": "#FF55FF",
       "type": "color"
     },
     "primary-hover": {
-      "value": "#FF80FF",
+      "value": "#FF70FF",
+      "type": "color"
+    },
+    "primary-shade": {
+      "value": "#FF1AFF",
       "type": "color"
     },
     "danger": {
@@ -179,6 +183,10 @@
     },
     "gray": {
       "value": "#9B9BB1",
+      "type": "color"
+    },
+    "secondary-shade": {
+      "value": "#5555FF",
       "type": "color"
     },
     "diff-red": {
@@ -222,7 +230,7 @@
       "type": "color"
     },
     "counter": {
-      "value": "#DBDBFF",
+      "value": "#FAFAFF",
       "type": "color"
     },
     "counter-emphasized": {
@@ -239,6 +247,14 @@
     },
     "secondary-counter": {
       "value": "#9497FF",
+      "type": "color"
+    },
+    "primary-counter": {
+      "value": "#FF8FFF",
+      "type": "color"
+    },
+    "ghost-shade": {
+      "value": "#DBDBFF",
       "type": "color"
     }
   }
