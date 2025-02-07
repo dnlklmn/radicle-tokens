@@ -188,8 +188,20 @@
       "value": "#E500E5",
       "type": "color"
     },
+    "danger-shade": {
+      "value": "#8B3E5E",
+      "type": "color"
+    },
     "danger": {
       "value": "#AA5078",
+      "type": "color"
+    },
+    "danger-hover": {
+      "value": "#BE7495",
+      "type": "color"
+    },
+    "danger-counter": {
+      "value": "#CE97AF",
       "type": "color"
     },
     "yellow": {
@@ -212,8 +224,20 @@
       "value": "#2D060D",
       "type": "color"
     },
+    "success-counter": {
+      "value": "#97CEB0",
+      "type": "color"
+    },
+    "success-hover": {
+      "value": "#71BC93",
+      "type": "color"
+    },
     "success": {
       "value": "#4FA877",
+      "type": "color"
+    },
+    "success-shade": {
+      "value": "#408760",
       "type": "color"
     },
     "diff-green": {
