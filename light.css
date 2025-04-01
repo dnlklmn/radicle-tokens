@@ -1,12 +1,12 @@
 :root {
-  --color-background-default: #F5F5FF; 
-  --color-background-float: #FAFAFF; 
+  --color-background-default: #EBEBFF; 
+  --color-background-float: #F5F5FF; 
   --color-background-dip: #F5F5FF; 
   --color-foreground-contrast: #232563; 
   --color-foreground-dim: #6A6A81; 
   --color-foreground-emphasized: #8585FF; 
   --color-foreground-emphasized-hover: #7070FF; 
-  --color-foreground-match-background: #F5F5FF; 
+  --color-foreground-match-background: #EBEBFF; 
   --color-foreground-white: #ffffff; 
   --color-foreground-black: #000000; 
   --color-foreground-primary: #FF55FF; 
@@ -20,10 +20,10 @@
   --color-border-hint: #DBDBFF; 
   --color-border-default: #DBDBFF; 
   --color-border-focus: #7070FF; 
-  --color-border-contrast: #24252D; 
+  --color-border-contrast: #1E1F25; 
   --color-border-error: #CE97AF; 
   --color-border-merged: #FFE5FF; 
-  --color-border-match-background: #F5F5FF; 
+  --color-border-match-background: #EBEBFF; 
   --color-border-primary: #FF1AFF; 
   --color-border-primary-hover: #FF55FF; 
   --color-border-selected: #DBDBFF; 
@@ -32,7 +32,7 @@
   --boxShadow-lg: 0 0 64px 0 #0000001a; 
   --color-fill-secondary: #7070FF; 
   --color-fill-secondary-hover: #8585FF; 
-  --color-fill-ghost: #EBEBFF; 
+  --color-fill-ghost: #DBDBFF; 
   --color-fill-ghost-hover: #F5F5FF; 
   --color-fill-separator: #DBDBFF; 
   --color-fill-primary: #FF55FF; 
@@ -54,8 +54,8 @@
   --color-fill-success-shade: #408760; 
   --color-fill-diff-green: #BADECA; 
   --color-fill-diff-green-light: #DCEFE5; 
-  --color-fill-float: #FAFAFF; 
-  --color-fill-float-hover: #DBDBFF; 
+  --color-fill-float: #F5F5FF; 
+  --color-fill-float-hover: #FAFAFF; 
   --color-fill-merged: #FFEEFF; 
   --color-fill-selected: #EBEBFF; 
   --color-fill-warning: #FFFFE5; 

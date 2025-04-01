@@ -1,12 +1,12 @@
 :root[data-theme="dark"] {
-  --color-background-default: #0A0D10; /* Use on full screen background.*/
-  --color-background-float: #14151A; /* A shade lighter than the default background for elements that float above the default background, eg. modals, popovers.*/
+  --color-background-default: #060809; /* Use on full screen background.*/
+  --color-background-float: #1E1F25; /* A shade lighter than the default background for elements that float above the default background, eg. modals, popovers.*/
   --color-background-dip: #000000; /* A shade darker than the default background for elements that are below the default background, eg. read only card, info section.*/
   --color-foreground-contrast: #F9F9FB; /* For text and icons on full screen background eg. body text, icons, button text.*/
   --color-foreground-dim: #9B9BB1; /* For deemphasized text and icons on full screen background eg. time stamps.*/
   --color-foreground-emphasized: #7070FF; /* For emphasized text and icons on full screen background eg. links, ids.*/
   --color-foreground-emphasized-hover: #8585FF; /* A shade lighter than emphasized for hovering interactive text and icons eg. links, ids.*/
-  --color-foreground-match-background: #0A0D10; /* To use on backgrounds contrasting the default background eg. button text on a blue button.*/
+  --color-foreground-match-background: #060809; /* To use on backgrounds contrasting the default background eg. button text on a blue button.*/
   --color-foreground-white: #ffffff; /* Plain white for going as bright as you can.*/
   --color-foreground-black: #000000; /* Plain black, for going as dark as you can.*/
   --color-foreground-primary: #FF55FF; /* To use for the most important action on the page eg. CTA link*/
@@ -17,13 +17,13 @@
   --color-foreground-red: #AA5078; /* To signify error eg. text field hints.*/
   --color-foreground-yellow: #E5C001; 
   --color-foreground-disabled: #6A6A81; 
-  --color-border-hint: #24252D; 
-  --color-border-default: #2E2F38; 
+  --color-border-hint: #1E1F25; 
+  --color-border-default: #393A46; 
   --color-border-focus: #7070FF; 
   --color-border-contrast: #EBEBFF; 
   --color-border-error: #6B2B42; 
   --color-border-merged: #6B006B; 
-  --color-border-match-background: #0A0D10; 
+  --color-border-match-background: #060809; 
   --color-border-primary: #FF1AFF; 
   --color-border-primary-hover: #FF55FF; 
   --color-border-selected: #232563; 
@@ -33,9 +33,9 @@
   --color-fill-secondary: #7070FF; 
   --color-fill-secondary-hover: #8585FF; 
   --color-fill-secondary-shade: #5555FF; 
-  --color-fill-ghost: #24252D; 
-  --color-fill-ghost-hover: #2E2F38; 
-  --color-fill-separator: #24252D; 
+  --color-fill-ghost: #2E2F38; 
+  --color-fill-ghost-hover: #393A46; 
+  --color-fill-separator: #2E2F38; 
   --color-fill-primary: #FF1AFF; 
   --color-fill-primary-hover: #FF4DFF; 
   --color-fill-primary-shade: #E500E5; 
@@ -54,8 +54,8 @@
   --color-fill-success-shade: #408760; 
   --color-fill-diff-green: #183425; 
   --color-fill-diff-green-light: #142A1D; 
-  --color-fill-float: #14151A; 
-  --color-fill-float-hover: #1B1C22; 
+  --color-fill-float: #1E1F25; 
+  --color-fill-float-hover: #2E2F38; 
   --color-fill-merged: #1A001A; 
   --color-fill-selected: #16173D; 
   --color-fill-warning: #191500; 

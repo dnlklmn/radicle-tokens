@@ -1,12 +1,12 @@
 {
   "background": {
     "default": {
-      "value": "#0A0D10",
+      "value": "#060809",
       "type": "color",
       "description": "Use on full screen background."
     },
     "float": {
-      "value": "#14151A",
+      "value": "#1E1F25",
       "type": "color",
       "description": "A shade lighter than the default background for elements that float above the default background, eg. modals, popovers."
     },
@@ -38,7 +38,7 @@
       "description": "A shade lighter than emphasized for hovering interactive text and icons eg. links, ids."
     },
     "match-background": {
-      "value": "#0A0D10",
+      "value": "#060809",
       "type": "color",
       "description": "To use on backgrounds contrasting the default background eg. button text on a blue button."
     },
@@ -92,11 +92,11 @@
   },
   "border": {
     "hint": {
-      "value": "#24252D",
+      "value": "#1E1F25",
       "type": "color"
     },
     "default": {
-      "value": "#2E2F38",
+      "value": "#393A46",
       "type": "color"
     },
     "focus": {
@@ -116,7 +116,7 @@
       "type": "color"
     },
     "match-background": {
-      "value": "#0A0D10",
+      "value": "#060809",
       "type": "color"
     },
     "primary": {
@@ -165,15 +165,15 @@
       "type": "color"
     },
     "ghost": {
-      "value": "#24252D",
-      "type": "color"
-    },
-    "ghost-hover": {
       "value": "#2E2F38",
       "type": "color"
     },
+    "ghost-hover": {
+      "value": "#393A46",
+      "type": "color"
+    },
     "separator": {
-      "value": "#24252D",
+      "value": "#2E2F38",
       "type": "color"
     },
     "primary": {
@@ -249,11 +249,11 @@
       "type": "color"
     },
     "float": {
-      "value": "#14151A",
+      "value": "#1E1F25",
       "type": "color"
     },
     "float-hover": {
-      "value": "#1B1C22",
+      "value": "#2E2F38",
       "type": "color"
     },
     "merged": {

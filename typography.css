@@ -2,10 +2,12 @@
   --typography-subtitle: 600 1.25rem/150% Inter; 
   --typography-body-1: 400 1rem/150% Inter; 
   --typography-body-2: 400 0.875rem/16 Inter; 
+  --typography-body-2-bold: 600 0.875rem/16 Inter; 
   --typography-body-1-bold: 600 1rem/150% Inter; 
   --typography-body-2-paragraph: 400 0.875rem/150% Inter; 
   --typography-mono-1: 400 1rem/150% 'JetBrains Mono'; 
   --typography-mono-2: 400 0.875rem/115% 'JetBrains Mono'; 
+  --typography-mono-2-paragraph: 400 0.875rem/200% 'JetBrains Mono'; 
   --typography-mono-1-bold: 700 1rem/150% 'JetBrains Mono'; 
   --typography-mono-2-bold: 700 0.875rem/115% 'JetBrains Mono'; 
   --typography-h-4: 600 2rem/Auto Inter; 
